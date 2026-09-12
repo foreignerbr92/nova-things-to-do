@@ -15,10 +15,10 @@ For every source:
 Unknown prices remain null. Drive times are planning estimates from Fairfax,
 not live traffic.
 """
-import hashlib, html as htmllib, json, re, ssl, sys, time
-from datetime import datetime, timezone
+import hashlib, html as htmllib, json, re, ssl, sys, time, unicodedata
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -353,18 +353,164 @@ FALLBACK_URLS={
   ],
 }
 
+def canonical_url(url):
+    if not url: return ""
+    try:
+        p=urlsplit(url)
+        return urlunsplit((p.scheme.lower(),p.netloc.lower(),p.path.rstrip("/"),"",""))
+    except:
+        return url
+
+def norm_words(x):
+    x=unicodedata.normalize("NFKD",clean(x)).encode("ascii","ignore").decode().lower()
+    x=x.replace("&"," and ")
+    x=re.sub(r"[^a-z0-9]+"," ",x)
+    return " ".join(x.split())
+
+def clean_title(title, event_date=None):
+    """Remove calendar metadata accidentally swallowed into event titles."""
+    t=clean(title)
+    if not t:return t
+
+    # Remove leading date metadata: Sep 12, September 12, 09/12, Sep 12 2026.
+    months=r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)"
+    t=re.sub(rf"^\s*{months}\s+\d{{1,2}}(?:st|nd|rd|th)?(?:,?\s+20\d{{2}})?\s*[-–—:|]*\s*","",t,flags=re.I)
+    t=re.sub(r"^\s*\d{1,2}/\d{1,2}(?:/20\d{2})?\s*[-–—:|]*\s*","",t)
+
+    # Some calendar cards append the weekday after the event title.
+    t=re.sub(r"[\s,|–—-]+(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s*,?\s*$","",t,flags=re.I)
+
+    # Remove a duplicated date at the end.
+    t=re.sub(rf"[\s,|–—-]+{months}\s+\d{{1,2}}(?:st|nd|rd|th)?(?:,?\s+20\d{{2}})?\s*$","",t,flags=re.I)
+
+    # Common parser/card prefixes.
+    t=re.sub(r"^(?:event|events|calendar event)\s*[:\-–—]\s*","",t,flags=re.I)
+    return re.sub(r"\s+"," ",t).strip(" ,-|–—")
+
+def title_signature(title, event_date=None):
+    t=clean_title(title,event_date)
+    n=norm_words(t)
+    # Remove weak calendar words only at the edges. Do NOT remove meaningful
+    # words such as "family", "festival", "tour", etc.
+    toks=n.split()
+    weak={"monday","tuesday","wednesday","thursday","friday","saturday","sunday"}
+    while toks and toks[0] in weak:toks.pop(0)
+    while toks and toks[-1] in weak:toks.pop()
+    return " ".join(toks)
+
+def token_similarity(a,b):
+    A=set(a.split()); B=set(b.split())
+    if not A or not B:return 0.0
+    jac=len(A&B)/len(A|B)
+    containment=len(A&B)/min(len(A),len(B))
+    # Containment is useful for "Historic Campus Walking Tour" vs
+    # "Lucy Burns Museum Historic Campus Walking Tour".
+    return max(jac, containment*0.96)
+
+def same_venue(a,b):
+    va=norm_words(a.get("venue","")); vb=norm_words(b.get("venue",""))
+    if not va or not vb:return True
+    if va==vb or va in vb or vb in va:return True
+    A=set(va.split());B=set(vb.split())
+    return len(A&B)/max(1,min(len(A),len(B)))>=0.75
+
+def same_session(a,b):
+    if a.get("date")!=b.get("date"):return False
+    if not same_venue(a,b):return False
+
+    ta=title_signature(a.get("title",""),a.get("date"))
+    tb=title_signature(b.get("title",""),b.get("date"))
+    if ta==tb:return True
+    if token_similarity(ta,tb)>=0.90:return True
+
+    # Exact official URL is strong evidence when the date is also identical.
+    ua=canonical_url(a.get("url","")); ub=canonical_url(b.get("url",""))
+    if ua and ub and ua==ub and ta and tb:return token_similarity(ta,tb)>=0.72
+    return False
+
+def real_time(e):
+    t=(e.get("time") or "").strip().lower()
+    return bool(t and "official" not in t and "see " not in t and
+                re.search(r"\b\d{1,2}(?::\d{2})?\s*(?:am|pm)\b",t,re.I))
+
+def source_priority(e):
+    # Prefer the venue's own listing over an aggregator.
+    src=norm_words(e.get("source",""))
+    if "artsfairfax" in src or "winchester frederick" in src:return 1
+    return 3
+
+def completeness(e):
+    return (source_priority(e)*20
+            + (8 if real_time(e) else 0)
+            + (8 if e.get("price") is not None else 0)
+            + (5 if e.get("url") else 0)
+            + (3 if e.get("venue") else 0)
+            + (2 if e.get("city") else 0))
+
+def merge_event(a,b):
+    """Merge two records known to represent the same performance/session."""
+    # Use the stronger record as the base, but always use the cleanest title.
+    base,other=(a,b) if completeness(a)>=completeness(b) else (b,a)
+    out=dict(base)
+
+    ca=clean_title(a.get("title",""),a.get("date"))
+    cb=clean_title(b.get("title",""),b.get("date"))
+    # Prefer the cleaner title that is not suspiciously truncated.
+    candidates=[x for x in (ca,cb) if x]
+    if candidates:
+        candidates.sort(key=lambda x:(len(title_signature(x).split()),len(x)),reverse=True)
+        out["title"]=candidates[0]
+
+    if not real_time(out) and real_time(other):out["time"]=other["time"]
+    if out.get("price") is None and other.get("price") is not None:
+        out["price"]=other.get("price"); out["priceType"]=other.get("priceType")
+    if not out.get("end") and other.get("end"):out["end"]=other["end"]
+    if not out.get("driveMin") and other.get("driveMin") is not None:out["driveMin"]=other["driveMin"]
+    out["deal"]=bool(a.get("deal") or b.get("deal"))
+    out["park"]=bool(a.get("park") or b.get("park"))
+    out["verified"]=bool(a.get("verified") or b.get("verified"))
+
+    # Preserve provenance without cluttering the card.
+    sources=[]
+    for e in (a,b):
+        for x in e.get("sources",[e.get("source")]):
+            if x and x not in sources:sources.append(x)
+    out["sources"]=sources
+    # Keep the preferred source label and its URL.
+    out["id"]=eid(out.get("source",""),out["title"],out.get("date",""))
+    return out
+
 def dedupe(es):
-    d={}
-    for e in es:
-        k=(e.get("source","").lower(),e.get("title","").lower(),e.get("date",""))
-        if k not in d:d[k]=e
-        else:
-            a=d[k]
-            # enrich rather than replace blindly
-            if a.get("price") is None and e.get("price") is not None:a["price"],a["priceType"]=e["price"],e.get("priceType")
-            if a.get("time")=="See official listing" and e.get("time")!="See official listing":a["time"]=e["time"]
-            if e.get("url") and e.get("url")!=SOURCES.get("",{}).get("url"):a["url"]=e["url"]
-    return list(d.values())
+    """Fuzzy, session-aware deduplication.
+
+    Same show on different dates stays separate. Same show/date at the same
+    venue merges even when one calendar added a date/weekday to the title.
+    """
+    cleaned=[]
+    for original in es:
+        e=dict(original)
+        e["title"]=clean_title(e.get("title",""),e.get("date"))
+        if not e["title"]:continue
+        e["id"]=eid(e.get("source","legacy"),e["title"],e.get("date",""))
+        cleaned.append(e)
+
+    # Compare only inside date buckets: both safer and faster.
+    buckets={}
+    for e in cleaned:buckets.setdefault(e.get("date",""),[]).append(e)
+
+    out=[]
+    for date,items in buckets.items():
+        merged=[]
+        # Most complete records first improves which URL/source survives.
+        for e in sorted(items,key=completeness,reverse=True):
+            hit=None
+            for i,x in enumerate(merged):
+                if same_session(x,e):
+                    hit=i;break
+            if hit is None:merged.append(e)
+            else:merged[hit]=merge_event(merged[hit],e)
+        out.extend(merged)
+    return out
 
 def main():
     existing=[]
@@ -416,12 +562,13 @@ def main():
         print(f"[{'OK' if err is None else 'FAIL'}] {key}: {len(found)} event(s), {pages} event page(s) checked"
               + (f" | {err}" if err else ""))
 
-    # Preserve future records; fresh records overlay by id.
-    merged={}
-    for e in existing:
-        if e.get("end",e.get("date",""))>=TODAY.isoformat():merged[e.get("id") or eid(e.get("source","legacy"),e.get("title",""),e.get("date",""))]=e
-    for e in dedupe(fresh):merged[e["id"]]=e
-    events=[e for e in merged.values() if e.get("end",e.get("date",""))>=TODAY.isoformat()]
+    # Preserve future records, then deduplicate ACROSS existing + fresh data.
+    # This prevents an old duplicate from surviving merely because its source/id
+    # differs from the newly collected official record.
+    candidates=[e for e in existing if e.get("end",e.get("date",""))>=TODAY.isoformat()]
+    candidates.extend(fresh)
+    events=[e for e in dedupe(candidates)
+            if e.get("end",e.get("date",""))>=TODAY.isoformat()]
     events.sort(key=lambda e:(e.get("date",""),e.get("driveMin") if e.get("driveMin") is not None else 999,e.get("title","")))
     OUT.parent.mkdir(parents=True,exist_ok=True)
     OUT.write_text(json.dumps(events,indent=2,ensure_ascii=False)+"\n",encoding="utf-8")
