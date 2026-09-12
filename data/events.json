@@ -18,23 +18,6 @@
     "driveMin": 10
   },
   {
-    "id": "fcpa-2026-09-12-forest-incense",
-    "title": "Sunset Soiree: Forest Incense Workshop",
-    "venue": "Green Spring Gardens",
-    "city": "Alexandria",
-    "date": "2026-09-12",
-    "time": "5:00 PM",
-    "price": 28,
-    "cat": "Park Event",
-    "deal": true,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/parks/events-calendar",
-    "note": "After-hours horticulture workshop.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 40
-  },
-  {
     "id": "hylton-arts-alive-2026",
     "title": "Arts Alive! Festival",
     "venue": "Hylton Performing Arts Center",
@@ -52,6 +35,41 @@
     "driveMin": 35
   },
   {
+    "id": "fcpa-2026-09-12-forest-incense",
+    "title": "Sunset Soiree: Forest Incense Workshop",
+    "venue": "Green Spring Gardens",
+    "city": "Alexandria",
+    "date": "2026-09-12",
+    "time": "5:00 PM",
+    "price": 28,
+    "cat": "Park Event",
+    "deal": true,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/parks/events-calendar",
+    "note": "After-hours horticulture workshop.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 40
+  },
+  {
+    "id": "507239ea9a557508",
+    "title": "Select date. September 2026 Fri 11 Live Theatre: “Come From Away”",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-09-13",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Theatre",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/events/",
+    "note": "Automatically discovered from a public event calendar; open official/source listing to confirm details.",
+    "park": false,
+    "source": "Winchester-Frederick CVB",
+    "driveMin": 75
+  },
+  {
     "id": "arlington-five-tuesday-2026-09-22",
     "title": "$5 Tuesdays",
     "venue": "Arlington Cinema & Drafthouse",
@@ -67,5 +85,23 @@
     "park": false,
     "source": "Arlington Cinema & Drafthouse",
     "driveMin": 35
+  },
+  {
+    "id": "66c7cd685de68ed1",
+    "title": "Tina Maria Art Fall Sale",
+    "venue": "Regional arts venue",
+    "city": "Fairfax County",
+    "date": "2026-11-06",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/calendar/",
+    "note": "Automatically discovered from a public event calendar; open official/source listing to confirm details.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10
   }
 ]
