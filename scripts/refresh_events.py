@@ -37,18 +37,18 @@ SOURCES = {
  "nextstop":{"name":"NextStop Theatre","url":"https://www.nextstoptheatre.org/2026-27-season","city":"Herndon","venue":"NextStop Theatre"},
  "workhouse":{"name":"Workhouse Arts Center","url":"https://www.workhousearts.org/calendar","city":"Lorton","venue":"Workhouse Arts Center"},
  "signature":{"name":"Signature Theatre","url":"https://www.sigtheatre.org/events/","city":"Arlington","venue":"Signature Theatre"},
- "gmu_cfa":{"name":"GMU Center for the Arts","url":"https://cfa.gmu.edu/events","city":"Fairfax","venue":"Center for the Arts at George Mason University"},
+ "gmu_cfa":{"name":"GMU Center for the Arts","url":"https://cfa.gmu.edu/events/2026-27-season","city":"Fairfax","venue":"Center for the Arts at George Mason University"},
  "hylton":{"name":"Hylton Performing Arts Center","url":"https://hyltoncenter.org/calendar","city":"Manassas","venue":"Hylton Performing Arts Center"},
  "first_stage":{"name":"1st Stage","url":"https://1ststage.org/","city":"Tysons","venue":"1st Stage"},
  "state_theatre":{"name":"The State Theatre","url":"https://www.thestatetheatre.com/events","city":"Falls Church","venue":"The State Theatre"},
  "arlington_drafthouse":{"name":"Arlington Cinema & Drafthouse","url":"https://www.arlingtondrafthouse.com/events","city":"Arlington","venue":"Arlington Cinema & Drafthouse"},
- "jammin_java":{"name":"Jammin Java","url":"https://www.jamminjava.com/calendar/","city":"Vienna","venue":"Jammin Java"},
+ "jammin_java":{"name":"Jammin Java","url":"https://www.jamminjava.com/","city":"Vienna","venue":"Jammin Java"},
  "birchmere":{"name":"The Birchmere","url":"https://www.birchmere.com/calendar/","city":"Alexandria","venue":"The Birchmere"},
- "capital_one_hall":{"name":"Capital One Hall","url":"https://www.capitalonehall.com/events","city":"Tysons","venue":"Capital One Hall"},
+ "capital_one_hall":{"name":"Capital One Hall","url":"https://www.capitalonehall.com/events-tickets","city":"Tysons","venue":"Capital One Hall"},
  # Extra sources requested for broader discovery
  "fauquier_theatre":{"name":"Fauquier Community Theatre","url":"https://www.fctstage.org/","city":"Warrenton","venue":"Fauquier Community Theatre"},
  "low_players":{"name":"Lake of the Woods Players","url":"https://www.lowplayers.org/","city":"Locust Grove","venue":"Lake of the Woods Players"},
- "umw_theatre":{"name":"UMW Theatre","url":"https://cas.umw.edu/theatre/","city":"Fredericksburg","venue":"Klein Theatre"},
+ "umw_theatre":{"name":"UMW Theatre","url":"https://cas.umw.edu/theatre/klein-theatre/season/","city":"Fredericksburg","venue":"Klein Theatre"},
  "franklin_park":{"name":"Franklin Park Arts Center","url":"https://www.franklinparkartscenter.org/","city":"Purcellville","venue":"Franklin Park Arts Center"},
 }
 
@@ -258,6 +258,101 @@ def wolf_home(raw,spec,base):
 
 SPECIAL={"nextstop":nextstop_season,"wolf_trap":wolf_home}
 
+def capital_one_cards(raw,spec,base):
+    text=clean(raw); out=[]
+    rx=re.compile(
+      r"(September|October|November|December|January|February|March|April|May|June|July|August)\s+"
+      r"(\d{1,2}),\s+(20\d{2})(?:\s+Doors:\s*[^#]{0,30})?\s+"
+      r"(?:Presented By:\s*[^#]{0,80}\s+|Good Beats presents\s+|Gate 52 presents\s+)?"
+      r"([A-Z][A-Za-z0-9À-ÿ'’“”&:!?,.+()\- /]{2,110}?)\s+"
+      r"(?:Main Theater|The Vault)", re.I)
+    for mon,day,yr,title in rx.findall(text):
+        d=f"{yr}-{MONTHS[mon.title()]:02d}-{int(day):02d}"
+        # Look locally for the start time.
+        pos=text.lower().find(title.lower())
+        chunk=text[pos:pos+220] if pos>=0 else ""
+        tm=re.search(r"Event Starts\s+(\d{1,2}(?::\d{2})?\s*[AP]M)",chunk,re.I)
+        e=make(spec,title,d,base,text=chunk,time_text=tm.group(1).upper() if tm else None)
+        if e:out.append(e)
+    return out
+
+def arlington_cards(raw,spec,base):
+    text=clean(raw); out=[]
+    rx=re.compile(
+      r"([A-Z0-9$][A-Za-z0-9À-ÿ'’“”&:!?,.$()\- /]{2,90}?)\s+"
+      r"(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+"
+      r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})\s*[–—-]\s*"
+      r"(\d{1,2}:\d{2}\s*[ap]m)",re.I)
+    for title,mon,day,tm in rx.findall(text):
+        month=MON[mon.lower()]
+        yr=YEAR + (1 if month < TODAY.month-6 else 0)
+        d=f"{yr:04d}-{month:02d}-{int(day):02d}"
+        e=make(spec,title,d,base,text=text,time_text=tm.upper())
+        if e:out.append(e)
+    return out
+
+def umw_season(raw,spec,base):
+    text=clean(raw); out=[]
+    # Main productions: Title + Month d – d, yyyy
+    rx=re.compile(
+      r"([A-Z][A-Za-z0-9'’&:!?.,\- ]{2,70}?)\s+"
+      r"(January|February|March|April|May|June|July|August|September|October|November|December)\s+"
+      r"(\d{1,2})\s*[–—-]\s*(\d{1,2}),\s+(20\d{2})",re.I)
+    for title,mon,sd,ed,yr in rx.findall(text):
+        title=title.strip()
+        if re.search(r"season|box office|opens|exchange",title,re.I):continue
+        start=f"{yr}-{MONTHS[mon.title()]:02d}-{int(sd):02d}"
+        end=f"{yr}-{MONTHS[mon.title()]:02d}-{int(ed):02d}"
+        e=make(spec,title,start,base,text=text,end=end,time_text="See official listing")
+        if e:out.append(e)
+    return out
+
+def gmu_season(raw,spec,base):
+    text=clean(raw); out=[]
+    # The season page is editorial; crawl finds event links when present.
+    # This fallback catches explicit performance statements such as
+    # "Music From The Sole ... September 26".
+    rx=re.compile(
+      r"([A-Z][A-Za-z0-9À-ÿ'’“”&:!?,.+()\- /]{3,100}?)\s+(?:on\s+)?"
+      r"(September|October|November|December|January|February|March|April|May|June|July|August)\s+"
+      r"(\d{1,2})(?:,\s*(20\d{2}))?",re.I)
+    for title,mon,day,yr in rx.findall(text):
+        y=int(yr) if yr else (YEAR if MONTHS[mon.title()]>=TODAY.month else YEAR+1)
+        d=f"{y:04d}-{MONTHS[mon.title()]:02d}-{int(day):02d}"
+        if len(title)>100:continue
+        e=make(spec,title,d,base,text=text)
+        if e:out.append(e)
+    return out
+
+SPECIAL.update({
+    "capital_one_hall": capital_one_cards,
+    "arlington_drafthouse": arlington_cards,
+    "umw_theatre": umw_season,
+    "gmu_cfa": gmu_season,
+})
+
+FALLBACK_URLS={
+  # Wolf Trap's main page can return 403 to GitHub-hosted runners. These are
+  # official Wolf Trap pages that expose the same current-program information.
+  "wolf_trap":[
+    "https://www.wolftrap.org/shows/venues/filene-center/",
+    "https://www.wolftrap.org/support/special-events",
+  ],
+  # Arlington's ticketing calendar is public and often easier for server-side
+  # collectors than the JS-heavy front end.
+  "arlington_drafthouse":[
+    "https://www-arlingtondrafthouse-com.seatengine.com/events"
+  ],
+  "capital_one_hall":[
+    "https://www.capitalonehall.com/",
+    "https://www.capitalonehall.com/events-tickets"
+  ],
+  "gmu_cfa":[
+    "https://cfa.gmu.edu/",
+    "https://cfa.gmu.edu/events/2026-27-season"
+  ],
+}
+
 def dedupe(es):
     d={}
     for e in es:
@@ -279,20 +374,35 @@ def main():
     for key,spec0 in SOURCES.items():
         spec=dict(spec0); found=[]; err=None; pages=0
         try:
-            raw,base=fetch(spec["url"]); spec["url"]=base
-            found+=parse_jsonld(raw,spec,base)
-            found+=generic_date_cards(raw,spec,base)
-            if key in SPECIAL:found+=SPECIAL[key](raw,spec,base)
-
-            # Crawl a bounded number of official event/show pages.
-            cand=links(raw,base)[:45]
-            for u in cand:
+            attempts=[spec["url"]]+FALLBACK_URLS.get(key,[])
+            seen_urls=set()
+            raws=[]
+            last_ex=None
+            for start_url in attempts:
+                if start_url in seen_urls: continue
+                seen_urls.add(start_url)
                 try:
-                    r,final=fetch(u,18); pages+=1
-                    found+=parse_event_page(r,spec,final)
-                    time.sleep(.04)
-                except Exception:
+                    raw,base=fetch(start_url); raws.append((raw,base))
+                except Exception as ex:
+                    last_ex=ex
                     continue
+            if not raws:
+                raise last_ex or RuntimeError("No source page could be fetched")
+
+            for raw,base in raws:
+                found+=parse_jsonld(raw,spec,base)
+                found+=generic_date_cards(raw,spec,base)
+                if key in SPECIAL: found+=SPECIAL[key](raw,spec,base)
+
+                # Crawl a bounded number of official event/show pages.
+                cand=links(raw,base)[:45]
+                for u in cand:
+                    try:
+                        r,final=fetch(u,18); pages+=1
+                        found+=parse_event_page(r,spec,final)
+                        time.sleep(.03)
+                    except Exception:
+                        continue
         except Exception as ex:
             err=str(ex)[:260]
 
