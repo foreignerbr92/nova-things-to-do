@@ -111,25 +111,31 @@ def clock(x):
     if not m:return "See official listing"
     h,mi=map(int,m.groups()); return f"{h%12 or 12}:{mi:02d} {'AM' if h<12 else 'PM'}"
 
-def price_text(text):
+def price_text(text, allow_free=True):
     t=clean(text); lo=t.lower()
-    if re.search(r"\bfree\b|free admission|no admission",lo):return 0,"fixed"
+    # "Free" is high-risk on whole web pages (free parking, free newsletter,
+    # free admission to a museum after a paid tour, etc.). Only callers with
+    # event-local text should allow it.
+    if allow_free and re.search(r"\b(?:free admission|admission is free|free event|tickets?\s*:?\s*free|\bfree\b)",lo):
+        return 0,"fixed"
     vals=[]
     for x in re.findall(r"\$\s*([0-9]+(?:\.[0-9]{1,2})?)",t):
         try: vals.append(float(x))
         except: pass
-    if vals:return min(vals),"starting" if len(set(vals))>1 or "starting" in lo else "fixed"
+    if vals:
+        vals=[v for v in vals if 0 <= v <= 10000]
+        if vals:return min(vals),"starting" if len(set(vals))>1 or "starting" in lo or "from $" in lo else "fixed"
     return None,None
 
 def eid(source,title,d):
     return hashlib.sha1(f"{source}|{title}|{d}".encode()).hexdigest()[:16]
 
-def make(spec,title,start,url,venue=None,city=None,text="",end=None,time_text=None,price=None,ptype=None):
+def make(spec,title,start,url,venue=None,city=None,text="",end=None,time_text=None,price=None,ptype=None,allow_free=True):
     d=iso_date(start)
     title=clean(title)
     if not d or not title or len(title)<2:return None
     city=clean(city) or spec["city"]; venue=clean(venue) or spec["venue"]
-    if price is None:price,ptype=price_text(text)
+    if price is None:price,ptype=price_text(text,allow_free=allow_free)
     return {"id":eid(spec["name"],title,d),"title":title,"venue":venue,"city":city,"date":d,
       "time":time_text or clock(start),"price":price,"priceType":ptype,"cat":cat(title,spec.get("park",False)),
       "deal":bool(re.search(r"pay.?what.?you.?can|\brush\b|lottery",text or "",re.I)),"verified":True,
@@ -204,7 +210,11 @@ def parse_event_page(raw,spec,url):
     if title and dates:
         mon,day,yr=dates[0]; d=f"{int(yr):04d}-{MONTHS[mon.title()]:02d}-{int(day):02d}"
         tm=re.search(r"\b(\d{1,2}(?::\d{2})?\s*(?:AM|PM))\b",text,re.I)
-        e=make(spec,title,d,url,text=text,time_text=tm.group(1).upper() if tm else None)
+        # Price comes from a bounded event-content window. This prevents
+        # "FREE" in navigation/footer text from contaminating paid events.
+        pos=text.lower().find(clean(title).lower())
+        local=text[pos:pos+3500] if pos>=0 else text[:3500]
+        e=make(spec,title,d,url,text=local,time_text=tm.group(1).upper() if tm else None,allow_free=True)
         if e:out.append(e)
     return out
 
@@ -230,7 +240,7 @@ def generic_date_cards(raw,spec,base):
     for title,mon,day,yr in rx.findall(text):
         if len(title)>100 or re.search(r"copyright|calendar|subscribe|privacy|updated",title,re.I):continue
         d=f"{int(yr):04d}-{MONTHS[mon.title()]:02d}-{int(day):02d}"
-        e=make(spec,title,d,base,text=text)
+        e=make(spec,title,d,base,text="",allow_free=False)
         if e:out.append(e)
     return out
 
@@ -252,7 +262,10 @@ def wolf_home(raw,spec,base):
     rx=re.compile(r"([A-Z][A-Za-z0-9À-ÿ'’&:!?,.+\- /]{2,100}?)\s+(?:MON|TUE|WED|THU|FRI|SAT|SUN),\s+(JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER)\s+(\d{1,2})\s*[-–—]\s*(\d{1,2}(?::\d{2})?\s*[AP]M)",re.I)
     for title,mon,day,tm in rx.findall(text):
         d=f"{YEAR}-{MONTHS[mon.title()]:02d}-{int(day):02d}"
-        e=make(spec,title,d,base,text=text,time_text=tm.upper())
+        # Card regex can swallow navigation prose; keep the last meaningful
+        # title-like segment before the date.
+        title=re.split(r"(?:Get Tickets|View Calendar|Tickets On Sale Now!)",title,flags=re.I)[-1].strip()
+        e=make(spec,title,d,base,text="",time_text=tm.upper(),allow_free=False)
         if e:out.append(e)
     return out
 
@@ -320,7 +333,7 @@ def gmu_season(raw,spec,base):
         y=int(yr) if yr else (YEAR if MONTHS[mon.title()]>=TODAY.month else YEAR+1)
         d=f"{y:04d}-{MONTHS[mon.title()]:02d}-{int(day):02d}"
         if len(title)>100:continue
-        e=make(spec,title,d,base,text=text)
+        e=make(spec,title,d,base,text="",allow_free=False)
         if e:out.append(e)
     return out
 
@@ -337,6 +350,7 @@ FALLBACK_URLS={
   "wolf_trap":[
     "https://www.wolftrap.org/shows/venues/filene-center/",
     "https://www.wolftrap.org/support/special-events",
+    "https://www.wolftrap.org/centerlines/",
   ],
   # Arlington's ticketing calendar is public and often easier for server-side
   # collectors than the JS-heavy front end.
@@ -565,7 +579,16 @@ def main():
     # Preserve future records, then deduplicate ACROSS existing + fresh data.
     # This prevents an old duplicate from surviving merely because its source/id
     # differs from the newly collected official record.
-    candidates=[e for e in existing if e.get("end",e.get("date",""))>=TODAY.isoformat()]
+    candidates=[]
+    for olde in existing:
+        if olde.get("end",olde.get("date",""))<TODAY.isoformat():continue
+        e=dict(olde)
+        # v6-v8 could infer FREE from unrelated Workhouse page text.
+        # Clear that legacy value; v9 fresh event-page parsing can restore a
+        # verified price (e.g. Historic Campus Walking Tour = $10 adult).
+        if norm_words(e.get("source",""))=="workhouse arts center" and e.get("price")==0:
+            e["price"]=None; e["priceType"]=None
+        candidates.append(e)
     candidates.extend(fresh)
     events=[e for e in dedupe(candidates)
             if e.get("end",e.get("date",""))>=TODAY.isoformat()]
