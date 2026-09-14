@@ -148,250 +148,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-10-14"
-  },
-  {
-    "id": "99737d673838bfae",
-    "title": "Create Your Own Piñata: A Celebration of Color & Culture (Ages 12 and above; Register by 9/9)",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-13",
-    "time": "See official listing",
-    "price": 5.0,
-    "priceType": "starting",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/create-your-own-pinata-a-celebration-of-color-culture-ages-12-and-above-register-by-9-9/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-13"
-  },
-  {
-    "id": "a0c19af93ce1ab0a",
-    "title": "Ray LaMontagne",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-13",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/ray-lamontagne/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-13"
-  },
-  {
-    "id": "f1232ead6972a056",
-    "title": "Symphonic Quest: Classical Music Meets Video Games",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-13",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/symphonic-quest/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-13",
+    "end": "2026-10-14",
     "sources": [
       "ArtsFairfax"
     ]
-  },
-  {
-    "id": "b809f12299f6916c",
-    "title": "Events | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-09-13",
-    "time": "4:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "1f3a323bd3f8302b",
-    "title": "Symphonic Quest | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-09-13",
-    "time": "4:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/symphonic-quest",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25
-  },
-  {
-    "id": "601358b93b50d11b",
-    "title": "Bull Run Festival of Lights",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-09-13",
-    "time": "8PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/events/bull-run-festival-of-lights",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35,
-    "sources": [
-      "NOVA Parks"
-    ]
-  },
-  {
-    "id": "0d5d373ae0207ba6",
-    "title": "Events",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-09-13",
-    "time": "8PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/events/event-calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35,
-    "sources": [
-      "NOVA Parks"
-    ]
-  },
-  {
-    "id": "ffc3f66e517207d8",
-    "title": "Ice & Lights",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-09-13",
-    "time": "2 PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/events/ice-lights",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35,
-    "sources": [
-      "NOVA Parks"
-    ]
-  },
-  {
-    "id": "fa7654df5f808d4c",
-    "title": "Things To Do",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-09-13",
-    "time": "8PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/things-to-do",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35,
-    "sources": [
-      "NOVA Parks"
-    ]
-  },
-  {
-    "id": "e0ba31ff5d81d372",
-    "title": "Winter Walk of Lights",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-09-13",
-    "time": "8PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/events/winter-walk-of-lights",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35,
-    "sources": [
-      "NOVA Parks"
-    ]
-  },
-  {
-    "id": "6afede9cd9e7f56d",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-13",
-    "time": "12:00 PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-13/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
-    "id": "507239ea9a557508",
-    "title": "Select date. September 2026 Fri 11 Live Theatre: “Come From Away”",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-13",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Theatre",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/",
-    "note": "Automatically discovered from a public event calendar; open official/source listing to confirm details.",
-    "park": false,
-    "source": "Winchester-Frederick CVB",
-    "driveMin": 75
   },
   {
     "id": "1b4cbde3770b4513",
@@ -410,7 +170,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-14"
+    "end": "2026-09-14",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "7a42f6c236732f44",
@@ -455,6 +218,25 @@
     ]
   },
   {
+    "id": "82486603cdad0907",
+    "title": "Artist Talk with Janet Echelman",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-16",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/artist-talk-with-janet-echelman/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-16"
+  },
+  {
     "id": "a8a83d50fb157e0d",
     "title": "Language Selection",
     "venue": "Fairfax County parks",
@@ -492,7 +274,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-16"
+    "end": "2026-09-16",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "5f873616f0fd86ed",
@@ -514,6 +299,44 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "0932d0050fbe721f",
+    "title": "Dancing on the Square",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-17",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/dancing-in-the-square-2/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-17"
+  },
+  {
+    "id": "7b1c1cd787d2978a",
+    "title": "McLean Project for the Arts to Debut Fall Solo Exhibitions September 17 at Berlage Center for Arts & Education",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-17",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Arts & Market",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/mclean-project-for-the-arts-to-debut-fall-solo-exhibitions-september-17-at-berlage-center-for-arts-education/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-14"
   },
   {
     "id": "40298293e16f835e",
@@ -623,6 +446,27 @@
     ]
   },
   {
+    "id": "5896c3a8265261ba",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-09-19",
+    "time": "6:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "0a9a4bab0bd69de9",
     "title": "Noli Timere (Be Not Afraid) | Capital One Hall",
     "venue": "Capital One Hall",
@@ -638,7 +482,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "6eb60c32f97b9f14",
@@ -761,7 +608,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "bba2b38dbe5da047",
@@ -859,7 +709,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "c1efab0f915a5e2e",
@@ -982,7 +835,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "968a5e18a17f5e63",
@@ -1109,6 +965,24 @@
     "sources": [
       "Fauquier Community Theatre"
     ]
+  },
+  {
+    "id": "4651969b1948c804",
+    "title": "Dark & Stormy | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-09",
+    "time": "6:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/dark-stormy",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "85151b8c71562b89",
