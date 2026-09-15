@@ -154,49 +154,6 @@
     ]
   },
   {
-    "id": "1b4cbde3770b4513",
-    "title": "Movies that Move: “Maudie”",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-14",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/movies-that-move-maudie/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-14",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "7a42f6c236732f44",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-14",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-14/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "53f3690ccc04ff09",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -234,7 +191,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-16"
+    "end": "2026-09-16",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "a8a83d50fb157e0d",
@@ -317,7 +277,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-17"
+    "end": "2026-09-17",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "7b1c1cd787d2978a",
@@ -336,7 +299,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-14"
+    "end": "2026-11-14",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "40298293e16f835e",
@@ -359,6 +325,24 @@
     "sources": [
       "NextStop Theatre"
     ]
+  },
+  {
+    "id": "266d3cfdd6377442",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-09-17",
+    "time": "12 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "e30b98d3961cd7fc",
@@ -657,7 +641,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-09-24",
-    "time": "See official listing",
+    "time": "6 PM",
     "price": 0,
     "priceType": "fixed",
     "cat": "Experience",
@@ -692,6 +676,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "7cb96388874eb8c2",
+    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-09-25",
+    "time": "6 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/events/2026-09-25/?hide_subsequent_recurrences=1",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
   },
   {
     "id": "a1dd7fe2f074ffc8",
@@ -982,7 +984,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "85151b8c71562b89",
@@ -1067,6 +1072,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "a95d004b4e3847a5",
+    "title": "Fall Mini Golf Tournaments",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-17",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "197f97c1a0639acd",
