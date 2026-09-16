@@ -154,27 +154,6 @@
     ]
   },
   {
-    "id": "53f3690ccc04ff09",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-15",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-15/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "82486603cdad0907",
     "title": "Artist Talk with Janet Echelman",
     "venue": "Fairfax-area venue",
@@ -342,7 +321,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "e30b98d3961cd7fc",
@@ -407,6 +389,44 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "fa7b8f0e31e53d37",
+    "title": "Happy Hour with Darden & Friends: Geoff Dean",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-18",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/happy-hour-with-darden-friends-geoff-dean/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-18"
+  },
+  {
+    "id": "87515d4b7e89611c",
+    "title": "Summerbration Fab Fridays: A Tribute to Stevie Nicks",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-18",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/summerbration-fab-fridays-a-tribute-to-stevie-nicks/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-18"
   },
   {
     "id": "361a55eae9decb37",
@@ -693,7 +713,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "a1dd7fe2f074ffc8",
@@ -1089,7 +1112,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "197f97c1a0639acd",
@@ -1280,6 +1306,81 @@
     "end": "2027-04-18",
     "sources": [
       "NextStop Theatre"
+    ]
+  },
+  {
+    "id": "2e8d7fd5c7c5202c",
+    "title": "Events for 09/16/2026",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "9PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/today/?hide_subsequent_recurrences=1&shortcode=f0b1cb7d",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
+  },
+  {
+    "id": "91894ae5fe627e54",
+    "title": "Events for September 2026",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "9PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/month/?hide_subsequent_recurrences=1&shortcode=f0b1cb7d",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
+  },
+  {
+    "id": "7fba5f8447a3187c",
+    "title": "ROBERT JON & THE WRECK",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "7:30 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/robert-jon-the-wreck/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
+  },
+  {
+    "id": "62e511e5bdf4a330",
+    "title": "VA, United States Unfortunately, due to unexpected circumstances, this show has been RESCHEDULED to",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
     ]
   },
   {
