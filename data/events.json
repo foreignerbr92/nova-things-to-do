@@ -154,92 +154,6 @@
     ]
   },
   {
-    "id": "82486603cdad0907",
-    "title": "Artist Talk with Janet Echelman",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-16",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/artist-talk-with-janet-echelman/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-16",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "a8a83d50fb157e0d",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
-    "city": "Fairfax County",
-    "date": "2026-09-16",
-    "time": "5:00PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10,
-    "sources": [
-      "Fairfax County Park Authority"
-    ]
-  },
-  {
-    "id": "223109f981dbad86",
-    "title": "Social Media for Artists (Register by 9/13)",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-16",
-    "time": "See official listing",
-    "price": 60.0,
-    "priceType": "starting",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/social-media-for-artists-register-by-9-13/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-16",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "5f873616f0fd86ed",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-16",
-    "time": "6:00 PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-16/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "0932d0050fbe721f",
     "title": "Dancing on the Square",
     "venue": "Fairfax-area venue",
@@ -282,6 +196,25 @@
     "sources": [
       "ArtsFairfax"
     ]
+  },
+  {
+    "id": "014adc0d4a7d537f",
+    "title": "New Artist at Nepenthe Gallery: Tamara Minarchi",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-17",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Arts & Market",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/new-artist-at-nepenthe-gallery-tamara-minarchi/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-17"
   },
   {
     "id": "40298293e16f835e",
@@ -407,7 +340,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-18"
+    "end": "2026-09-18",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "87515d4b7e89611c",
@@ -426,7 +362,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-18"
+    "end": "2026-09-18",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "361a55eae9decb37",
@@ -469,6 +408,24 @@
     "sources": [
       "Capital One Hall"
     ]
+  },
+  {
+    "id": "3491211125d96e7e",
+    "title": "Group Sales | Capital One Hall | Tysons, VA | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-09-19",
+    "time": "8PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets/group-sales",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "0a9a4bab0bd69de9",
@@ -640,7 +597,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-09-23",
-    "time": "See official listing",
+    "time": "6:00 PM",
     "price": 0,
     "priceType": "fixed",
     "cat": "Experience",
@@ -1324,7 +1281,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "The Birchmere",
-    "driveMin": 40
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
+    ]
   },
   {
     "id": "91894ae5fe627e54",
@@ -1342,7 +1302,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "The Birchmere",
-    "driveMin": 40
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
+    ]
   },
   {
     "id": "7fba5f8447a3187c",
@@ -1360,7 +1323,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "The Birchmere",
-    "driveMin": 40
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
+    ]
   },
   {
     "id": "62e511e5bdf4a330",
