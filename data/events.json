@@ -154,28 +154,6 @@
     ]
   },
   {
-    "id": "0932d0050fbe721f",
-    "title": "Dancing on the Square",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-17",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/dancing-in-the-square-2/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-17",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "7b1c1cd787d2978a",
     "title": "McLean Project for the Arts to Debut Fall Solo Exhibitions September 17 at Berlage Center for Arts & Education",
     "venue": "Fairfax-area venue",
@@ -196,25 +174,6 @@
     "sources": [
       "ArtsFairfax"
     ]
-  },
-  {
-    "id": "014adc0d4a7d537f",
-    "title": "New Artist at Nepenthe Gallery: Tamara Minarchi",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-17",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Arts & Market",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/new-artist-at-nepenthe-gallery-tamara-minarchi/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-17"
   },
   {
     "id": "40298293e16f835e",
@@ -239,48 +198,6 @@
     ]
   },
   {
-    "id": "266d3cfdd6377442",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-09-17",
-    "time": "12 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "e30b98d3961cd7fc",
-    "title": "Lucy Burns Museum Historic Campus Walking Tour",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-09-17",
-    "time": "10:00 AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Cultural",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from a public event calendar; confirm details on the official/source listing.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
     "id": "1af271f959b4c10a",
     "title": "lfred Hitchcock And an original concept by Simon Corble and Nobby Dimon",
     "venue": "Klein Theatre",
@@ -300,27 +217,6 @@
     "end": "2026-09-27",
     "sources": [
       "UMW Theatre"
-    ]
-  },
-  {
-    "id": "a90c3ed66a81e292",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-17",
-    "time": "7PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-17/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
     ]
   },
   {
@@ -387,6 +283,63 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "85e66fbbc2049eb9",
+    "title": "Bead & Wire Jewelry Workshop (Register by 9/16)",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-19",
+    "time": "See official listing",
+    "price": 15.0,
+    "priceType": "starting",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/bead-wire-jewelry-workshop-register-by-9-16/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-19"
+  },
+  {
+    "id": "6f27d83a731d4ee9",
+    "title": "Noli Timere (Be Not Afraid)",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-19",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/noli-timere-be-not-afraid/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-19"
+  },
+  {
+    "id": "aabbae795bca55c6",
+    "title": "Reston Multicultural Festival",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-19",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Festival",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/reston-multicultural-festival-2/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-19"
   },
   {
     "id": "5896c3a8265261ba",
@@ -489,6 +442,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "2567adc280210736",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-09-20",
+    "time": "12 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "dbdefc248bf22734",
@@ -926,6 +897,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "7341e3cd83419f13",
+    "title": "Anastasia: The Musical",
+    "venue": "Fauquier Community Theatre",
+    "city": "Warrenton",
+    "date": "2026-10-04",
+    "time": "See official listing",
+    "price": 18.0,
+    "priceType": "starting",
+    "cat": "Theatre",
+    "deal": false,
+    "verified": true,
+    "url": "https://fauquiertheatre.org/shows/anastasia/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Fauquier Community Theatre",
+    "driveMin": 50
   },
   {
     "id": "3f63aede798bed67",
