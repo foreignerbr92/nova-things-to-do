@@ -1,27 +1,5 @@
 [
   {
-    "id": "c58341342e91200b",
-    "title": "Bethesda’s Summer Concert Series",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-05-15",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/bethesdas-summer-concert-series/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-18",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "01145ccf3e49e4b4",
     "title": "Community Maker Night",
     "venue": "Fairfax-area venue",
@@ -220,71 +198,6 @@
     ]
   },
   {
-    "id": "fa7b8f0e31e53d37",
-    "title": "Happy Hour with Darden & Friends: Geoff Dean",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-18",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/happy-hour-with-darden-friends-geoff-dean/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-18",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "87515d4b7e89611c",
-    "title": "Summerbration Fab Fridays: A Tribute to Stevie Nicks",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-18",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/summerbration-fab-fridays-a-tribute-to-stevie-nicks/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-18",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "361a55eae9decb37",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-18",
-    "time": "7PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-18/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "85e66fbbc2049eb9",
     "title": "Bead & Wire Jewelry Workshop (Register by 9/16)",
     "venue": "Fairfax-area venue",
@@ -301,7 +214,32 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-19"
+    "end": "2026-09-19",
+    "sources": [
+      "ArtsFairfax"
+    ]
+  },
+  {
+    "id": "1b35881382c69471",
+    "title": "Behind the Scenes with Noli Timere",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-19",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/behind-the-scenes-with-noli-timere/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-19",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "6f27d83a731d4ee9",
@@ -320,7 +258,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-19"
+    "end": "2026-09-19",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "aabbae795bca55c6",
@@ -339,7 +280,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-19"
+    "end": "2026-09-19",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "5896c3a8265261ba",
@@ -444,6 +388,25 @@
     ]
   },
   {
+    "id": "42e5f6700561f360",
+    "title": "Flowers, Identity & Art: A Frida Kahlo–Inspired Headband (Ages 10 to Adult; Register by 9/16)",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-20",
+    "time": "See official listing",
+    "price": 10.0,
+    "priceType": "starting",
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/flowers-identity-art-a-frida-kahlo-inspired-headband-ages-10-to-adult-register-by-9-16/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-20"
+  },
+  {
     "id": "2567adc280210736",
     "title": "Events Calendar — Workhouse Arts Center",
     "venue": "Workhouse Arts Center",
@@ -459,7 +422,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "dbdefc248bf22734",
@@ -561,6 +527,24 @@
     "park": false,
     "source": "Arlington Cinema & Drafthouse",
     "driveMin": 35
+  },
+  {
+    "id": "b0ba7f0c6cd0ec80",
+    "title": "Language Selection",
+    "venue": "Fairfax County parks",
+    "city": "Fairfax County",
+    "date": "2026-09-23",
+    "time": "9:30AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/events/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 10
   },
   {
     "id": "bceeaa582bee5248",
@@ -914,7 +898,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Fauquier Community Theatre",
-    "driveMin": 50
+    "driveMin": 50,
+    "sources": [
+      "Fauquier Community Theatre"
+    ]
   },
   {
     "id": "3f63aede798bed67",
@@ -1295,6 +1282,24 @@
     "sources": [
       "The Birchmere"
     ]
+  },
+  {
+    "id": "6e6e18fe7f373cd5",
+    "title": "Past Events from",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "9PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/list/?shortcode=f0b1cb7d&eventDisplay=past",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
   },
   {
     "id": "7fba5f8447a3187c",
