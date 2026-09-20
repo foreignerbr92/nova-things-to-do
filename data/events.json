@@ -198,196 +198,6 @@
     ]
   },
   {
-    "id": "85e66fbbc2049eb9",
-    "title": "Bead & Wire Jewelry Workshop (Register by 9/16)",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-19",
-    "time": "See official listing",
-    "price": 15.0,
-    "priceType": "starting",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/bead-wire-jewelry-workshop-register-by-9-16/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-19",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "1b35881382c69471",
-    "title": "Behind the Scenes with Noli Timere",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-19",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/behind-the-scenes-with-noli-timere/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-19",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "6f27d83a731d4ee9",
-    "title": "Noli Timere (Be Not Afraid)",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-19",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/noli-timere-be-not-afraid/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-19",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "aabbae795bca55c6",
-    "title": "Reston Multicultural Festival",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-19",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Festival",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/reston-multicultural-festival-2/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-19",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "5896c3a8265261ba",
-    "title": "Events | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-09-19",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "3491211125d96e7e",
-    "title": "Group Sales | Capital One Hall | Tysons, VA | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-09-19",
-    "time": "8PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets/group-sales",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25
-  },
-  {
-    "id": "0a9a4bab0bd69de9",
-    "title": "Noli Timere (Be Not Afraid) | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-09-19",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/noli-timere-be-not-afraid",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "6eb60c32f97b9f14",
-    "title": "AM - 5:00 PM Open House at Fort Collier Civil War Center On",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-19",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
-    "id": "6f10fc5a3a3402e4",
-    "title": "Events Archive - Page 2 of 336 - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-19",
-    "time": "7PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/list/page/2/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "42e5f6700561f360",
     "title": "Flowers, Identity & Art: A Frida Kahlo–Inspired Headband (Ages 10 to Adult; Register by 9/16)",
     "venue": "Fairfax-area venue",
@@ -400,6 +210,47 @@
     "deal": false,
     "verified": true,
     "url": "https://artsfairfax.org/event/flowers-identity-art-a-frida-kahlo-inspired-headband-ages-10-to-adult-register-by-9-16/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-20",
+    "sources": [
+      "ArtsFairfax"
+    ]
+  },
+  {
+    "id": "a44abd56cdd30811",
+    "title": "Francesca Hurst: Reflections, a Piano Recital",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-20",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/francesca-hurst-reflections-a-piano-recital/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-20"
+  },
+  {
+    "id": "47c88466ab40ab69",
+    "title": "Movement Class with Rebecca Lazier",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-20",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/movement-class-with-rebecca-lazier/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
@@ -491,6 +342,65 @@
     ]
   },
   {
+    "id": "c70fc75d96a21606",
+    "title": "Kenny G",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-22",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/kenny-g/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-22"
+  },
+  {
+    "id": "9c2ce9edc53cebac",
+    "title": "MPA presents The Art of Aging in Place",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-22",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/mpa-presents-the-art-of-aging-in-place/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-22"
+  },
+  {
+    "id": "7ef67c977e763b44",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-09-22",
+    "time": "6:30 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "13fe62ea7d17907a",
     "title": "Kenny G | Capital One Hall",
     "venue": "Capital One Hall",
@@ -544,7 +454,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "Fairfax County Park Authority",
-    "driveMin": 10
+    "driveMin": 10,
+    "sources": [
+      "Fairfax County Park Authority"
+    ]
   },
   {
     "id": "bceeaa582bee5248",
@@ -925,6 +838,24 @@
     ]
   },
   {
+    "id": "07d0b457440061a4",
+    "title": "Arash Live in Northern VA | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-09",
+    "time": "8PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/arash-live-in-washington-dc-dmv",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
+  },
+  {
     "id": "4651969b1948c804",
     "title": "Dark & Stormy | Capital One Hall",
     "venue": "Capital One Hall",
@@ -1284,6 +1215,24 @@
     ]
   },
   {
+    "id": "97aef0a0a7494fca",
+    "title": "Events from September 20 - 05/14/2027",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "9PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/list/?hide_subsequent_recurrences=1&shortcode=f0b1cb7d",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
+  },
+  {
     "id": "6e6e18fe7f373cd5",
     "title": "Past Events from",
     "venue": "The Birchmere",
@@ -1299,7 +1248,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "The Birchmere",
-    "driveMin": 40
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
+    ]
   },
   {
     "id": "7fba5f8447a3187c",
