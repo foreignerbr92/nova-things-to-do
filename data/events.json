@@ -198,129 +198,6 @@
     ]
   },
   {
-    "id": "42e5f6700561f360",
-    "title": "Flowers, Identity & Art: A Frida Kahlo–Inspired Headband (Ages 10 to Adult; Register by 9/16)",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-20",
-    "time": "See official listing",
-    "price": 10.0,
-    "priceType": "starting",
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/flowers-identity-art-a-frida-kahlo-inspired-headband-ages-10-to-adult-register-by-9-16/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-20",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "a44abd56cdd30811",
-    "title": "Francesca Hurst: Reflections, a Piano Recital",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-20",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/francesca-hurst-reflections-a-piano-recital/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-20"
-  },
-  {
-    "id": "47c88466ab40ab69",
-    "title": "Movement Class with Rebecca Lazier",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-20",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/movement-class-with-rebecca-lazier/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-20"
-  },
-  {
-    "id": "2567adc280210736",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-09-20",
-    "time": "12 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "dbdefc248bf22734",
-    "title": "Sound Bath - Remember Your Why",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-09-20",
-    "time": "4:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from a public event calendar; confirm details on the official/source listing.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "f8f702238b7e5e4b",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-20",
-    "time": "10AM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-20/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "290e4104971998df",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -358,7 +235,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-22"
+    "end": "2026-09-22",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "9c2ce9edc53cebac",
@@ -377,7 +257,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-22"
+    "end": "2026-09-22",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "7ef67c977e763b44",
@@ -439,6 +322,25 @@
     "driveMin": 35
   },
   {
+    "id": "b7a89fcfe0b3961d",
+    "title": "Colors of Latin America: Hispanic Folk Art (Ages 12 to Adult; Register by 9/19)",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-23",
+    "time": "See official listing",
+    "price": 6.0,
+    "priceType": "starting",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/colors-of-latin-america-hispanic-folk-art-ages-12-to-adult-register-by-9-19/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-23"
+  },
+  {
     "id": "b0ba7f0c6cd0ec80",
     "title": "Language Selection",
     "venue": "Fairfax County parks",
@@ -460,6 +362,25 @@
     ]
   },
   {
+    "id": "cad6f2bce2abb674",
+    "title": "Sillygander: Improv Watch & Learn (Sep)",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-23",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Comedy",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/sillygander-improv-watch-learn-sep/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-23"
+  },
+  {
     "id": "bceeaa582bee5248",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -479,6 +400,44 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "38531229249e381f",
+    "title": "Dancing on the Square",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-24",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/dancing-on-the-square/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-24"
+  },
+  {
+    "id": "e6223755315a12db",
+    "title": "Hakawatis",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-24",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/hakawatis/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-10-18"
   },
   {
     "id": "5009429f2119b807",
@@ -853,7 +812,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "4651969b1948c804",
@@ -1227,6 +1189,27 @@
     "deal": false,
     "verified": true,
     "url": "https://www.birchmere.com/events/list/?hide_subsequent_recurrences=1&shortcode=f0b1cb7d",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
+    ]
+  },
+  {
+    "id": "3128efb879460d59",
+    "title": "LEONID & FRIENDS",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "7:30 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/leonid-friends/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "The Birchmere",
