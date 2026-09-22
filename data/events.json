@@ -198,27 +198,6 @@
     ]
   },
   {
-    "id": "290e4104971998df",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-21",
-    "time": "10:00 AM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-21/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "c70fc75d96a21606",
     "title": "Kenny G",
     "venue": "Fairfax-area venue",
@@ -322,6 +301,24 @@
     "driveMin": 35
   },
   {
+    "id": "d1c52322a5262af3",
+    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-09-22",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
+  },
+  {
     "id": "b7a89fcfe0b3961d",
     "title": "Colors of Latin America: Hispanic Folk Art (Ages 12 to Adult; Register by 9/19)",
     "venue": "Fairfax-area venue",
@@ -338,7 +335,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-23"
+    "end": "2026-09-23",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "b0ba7f0c6cd0ec80",
@@ -378,7 +378,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-23"
+    "end": "2026-09-23",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "bceeaa582bee5248",
@@ -418,7 +421,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-24"
+    "end": "2026-09-24",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "e6223755315a12db",
@@ -437,7 +443,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-10-18"
+    "end": "2026-10-18",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "5009429f2119b807",
@@ -459,6 +468,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "74fb38580387356c",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-09-25",
+    "time": "12 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "6a3e56b208d9e197",
@@ -1213,7 +1240,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "The Birchmere",
-    "driveMin": 40
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
+    ]
   },
   {
     "id": "6e6e18fe7f373cd5",
