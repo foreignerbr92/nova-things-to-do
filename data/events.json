@@ -198,125 +198,23 @@
     ]
   },
   {
-    "id": "c70fc75d96a21606",
-    "title": "Kenny G",
+    "id": "f42341b2117d4c95",
+    "title": "Music Sampler",
     "venue": "Fairfax-area venue",
     "city": "Fairfax County",
     "date": "2026-09-22",
     "time": "See official listing",
     "price": null,
     "priceType": null,
-    "cat": "Experience",
+    "cat": "Music",
     "deal": false,
     "verified": true,
-    "url": "https://artsfairfax.org/event/kenny-g/",
+    "url": "https://artsfairfax.org/event/music-sampler-6/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-22",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "9c2ce9edc53cebac",
-    "title": "MPA presents The Art of Aging in Place",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-22",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/mpa-presents-the-art-of-aging-in-place/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-22",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "7ef67c977e763b44",
-    "title": "Events | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-09-22",
-    "time": "6:30 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "13fe62ea7d17907a",
-    "title": "Kenny G | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-09-22",
-    "time": "6:30 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/kenny-g",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "bba2b38dbe5da047",
-    "title": "$5 Tuesdays",
-    "venue": "Arlington Cinema & Drafthouse",
-    "city": "Arlington",
-    "date": "2026-09-22",
-    "time": "7:00 PM",
-    "price": 5,
-    "cat": "Comedy",
-    "deal": false,
-    "verified": true,
-    "url": "https://arlingtondrafthouse.com/",
-    "note": "Low-cost comedy night.",
-    "park": false,
-    "source": "Arlington Cinema & Drafthouse",
-    "driveMin": 35
-  },
-  {
-    "id": "d1c52322a5262af3",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-22",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "end": "2026-11-10"
   },
   {
     "id": "b7a89fcfe0b3961d",
@@ -485,7 +383,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "6a3e56b208d9e197",
@@ -1073,6 +974,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "3ca8338558ac4626",
+    "title": "Lucy Burns Museum EqualiTEA - A Turning Point",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-11-15",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "d89acf867cedb868",
