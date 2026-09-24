@@ -214,92 +214,9 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-10"
-  },
-  {
-    "id": "b7a89fcfe0b3961d",
-    "title": "Colors of Latin America: Hispanic Folk Art (Ages 12 to Adult; Register by 9/19)",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-23",
-    "time": "See official listing",
-    "price": 6.0,
-    "priceType": "starting",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/colors-of-latin-america-hispanic-folk-art-ages-12-to-adult-register-by-9-19/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-23",
+    "end": "2026-11-10",
     "sources": [
       "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "b0ba7f0c6cd0ec80",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
-    "city": "Fairfax County",
-    "date": "2026-09-23",
-    "time": "9:30AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10,
-    "sources": [
-      "Fairfax County Park Authority"
-    ]
-  },
-  {
-    "id": "cad6f2bce2abb674",
-    "title": "Sillygander: Improv Watch & Learn (Sep)",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-23",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Comedy",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/sillygander-improv-watch-learn-sep/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-23",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "bceeaa582bee5248",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-23",
-    "time": "6:00 PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-23/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
     ]
   },
   {
@@ -345,6 +262,44 @@
     "sources": [
       "ArtsFairfax"
     ]
+  },
+  {
+    "id": "35e9337d54a9889e",
+    "title": "MPA to Host Book Talk featuring Artist and Author Maria Karametou",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-24",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/mpa-to-host-book-talk-featuring-artist-and-author-maria-karametou/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-24"
+  },
+  {
+    "id": "c61a03dad54c52f6",
+    "title": "Meet the Artists: Beverly Cosham",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-24",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/meet-the-artists-beverly-cosham-2/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-24"
   },
   {
     "id": "5009429f2119b807",
@@ -452,6 +407,27 @@
     ]
   },
   {
+    "id": "451fa3aceaf97db4",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-09-26",
+    "time": "4:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "c1efab0f915a5e2e",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -499,7 +475,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-09-30",
-    "time": "See official listing",
+    "time": "6:00 PM",
     "price": 0,
     "priceType": "fixed",
     "cat": "Experience",
@@ -809,6 +785,42 @@
     ]
   },
   {
+    "id": "e8db8354b2fe5041",
+    "title": "Group Sales | Capital One Hall | Tysons, VA | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-11",
+    "time": "1PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets/group-sales",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
+  },
+  {
+    "id": "405dbd166ff7a7e6",
+    "title": "Poetry in Motion | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-11",
+    "time": "1 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/poetry-in-motion",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
+  },
+  {
     "id": "fc50f17e9847b43a",
     "title": "Lucy Burns Museum Historic Campus Walking Tour",
     "venue": "Workhouse Arts Center",
@@ -991,7 +1003,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "d89acf867cedb868",
