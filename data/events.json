@@ -198,6 +198,25 @@
     ]
   },
   {
+    "id": "c7164ff859fb11da",
+    "title": "NextStop Theatre’s: The Second Best School Shooting",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-21",
+    "time": "See official listing",
+    "price": 30.0,
+    "priceType": "fixed",
+    "cat": "Theatre",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/nextstop-theatres-the-second-best-school-shooting/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-10-11"
+  },
+  {
     "id": "f42341b2117d4c95",
     "title": "Music Sampler",
     "venue": "Fairfax-area venue",
@@ -215,28 +234,6 @@
     "source": "ArtsFairfax",
     "driveMin": 10,
     "end": "2026-11-10",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "38531229249e381f",
-    "title": "Dancing on the Square",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-24",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/dancing-on-the-square/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-24",
     "sources": [
       "ArtsFairfax"
     ]
@@ -264,63 +261,79 @@
     ]
   },
   {
-    "id": "35e9337d54a9889e",
-    "title": "MPA to Host Book Talk featuring Artist and Author Maria Karametou",
+    "id": "5c9b7967c0ab7b6f",
+    "title": "Happy Hour with Darden & Friends: Graham Breedlove",
     "venue": "Fairfax-area venue",
     "city": "Fairfax County",
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "time": "See official listing",
     "price": null,
     "priceType": null,
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://artsfairfax.org/event/mpa-to-host-book-talk-featuring-artist-and-author-maria-karametou/",
+    "url": "https://artsfairfax.org/event/happy-hour-with-darden-friends-graham-breedlove/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-24"
+    "end": "2026-09-25"
   },
   {
-    "id": "c61a03dad54c52f6",
-    "title": "Meet the Artists: Beverly Cosham",
+    "id": "f805370acb8923d0",
+    "title": "Language Selection",
+    "venue": "Fairfax County parks",
+    "city": "Fairfax County",
+    "date": "2026-09-25",
+    "time": "7:00PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/events/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 10
+  },
+  {
+    "id": "d9d83aad3458f1cf",
+    "title": "Summerbration Fab Fridays: A Tribute to Dolly Parton",
     "venue": "Fairfax-area venue",
     "city": "Fairfax County",
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "time": "See official listing",
     "price": null,
     "priceType": null,
-    "cat": "Experience",
+    "cat": "Music",
     "deal": false,
     "verified": true,
-    "url": "https://artsfairfax.org/event/meet-the-artists-beverly-cosham-2/",
+    "url": "https://artsfairfax.org/event/summerbration-fab-fridays-a-tribute-to-dolly-parton/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-24"
+    "end": "2026-09-25"
   },
   {
-    "id": "5009429f2119b807",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-24",
-    "time": "6 PM",
+    "id": "ebd735d738a8056a",
+    "title": "ValeArts Fall show and sale",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-25",
+    "time": "See official listing",
     "price": 0,
     "priceType": "fixed",
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-24/?hide_subsequent_recurrences=1",
+    "url": "https://artsfairfax.org/event/valearts-fall-show-and-sale/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-27"
   },
   {
     "id": "74fb38580387356c",
@@ -517,7 +530,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-10-01",
-    "time": "See official listing",
+    "time": "7PM",
     "price": 0,
     "priceType": "fixed",
     "cat": "Experience",
@@ -615,6 +628,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "2182b38bb9c4dbd2",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-03",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "071c4dacdf2214c3",
@@ -743,6 +774,24 @@
     ]
   },
   {
+    "id": "d36ebbcf96537a93",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-09",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
+  },
+  {
     "id": "85151b8c71562b89",
     "title": "BETRAYAL OCTOBER 8-25, 2026 — 1st Stage",
     "venue": "1st Stage",
@@ -785,6 +834,24 @@
     ]
   },
   {
+    "id": "7791c277b0570ca7",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-10",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
+  },
+  {
     "id": "e8db8354b2fe5041",
     "title": "Group Sales | Capital One Hall | Tysons, VA | Capital One Hall",
     "venue": "Capital One Hall",
@@ -800,7 +867,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "405dbd166ff7a7e6",
@@ -818,7 +888,28 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
+    "id": "4cb720ca933c0814",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-11",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "fc50f17e9847b43a",
@@ -840,6 +931,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "1858d5d8c9067185",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-16",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "01a244cd932a4f6f",
@@ -884,6 +993,114 @@
     ]
   },
   {
+    "id": "97274f85fdfa7e1c",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-17",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
+  },
+  {
+    "id": "fb268576e4728719",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-18",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
+  },
+  {
+    "id": "9a41c393d7971354",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-23",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
+  },
+  {
+    "id": "c318fed7aef36024",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-24",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
+  },
+  {
+    "id": "e75b5e0b983266ab",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-25",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
+  },
+  {
+    "id": "1c3fe64ae9c5c0ec",
+    "title": "Lucy Burns Museum Historic Flashlight Tours",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-30",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
+  },
+  {
     "id": "197f97c1a0639acd",
     "title": "Temple Hall Farm Pumpkin Patch & Flower Fields",
     "venue": "NOVA Parks",
@@ -925,6 +1142,24 @@
     "sources": [
       "NextStop Theatre"
     ]
+  },
+  {
+    "id": "a43500e9aa4911f2",
+    "title": "Lucy Burns Museum Historic Campus Walking Tour",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-11-05",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "846a0cfa711242d9",
@@ -1007,6 +1242,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "0f4f04e276af745d",
+    "title": "Lucy Burns Museum Learning at Lunch",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-12-11",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "d89acf867cedb868",
