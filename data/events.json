@@ -261,62 +261,6 @@
     ]
   },
   {
-    "id": "5c9b7967c0ab7b6f",
-    "title": "Happy Hour with Darden & Friends: Graham Breedlove",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-25",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/happy-hour-with-darden-friends-graham-breedlove/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-25"
-  },
-  {
-    "id": "f805370acb8923d0",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
-    "city": "Fairfax County",
-    "date": "2026-09-25",
-    "time": "7:00PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10
-  },
-  {
-    "id": "d9d83aad3458f1cf",
-    "title": "Summerbration Fab Fridays: A Tribute to Dolly Parton",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-25",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/summerbration-fab-fridays-a-tribute-to-dolly-parton/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-25"
-  },
-  {
     "id": "ebd735d738a8056a",
     "title": "ValeArts Fall show and sale",
     "venue": "Fairfax-area venue",
@@ -333,70 +277,70 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-27"
+    "end": "2026-09-27",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
-    "id": "74fb38580387356c",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-09-25",
-    "time": "12 PM",
+    "id": "add7fc24e454b56d",
+    "title": "John Crist Live Special Taping",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-26",
+    "time": "See official listing",
     "price": null,
     "priceType": null,
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
+    "url": "https://artsfairfax.org/event/john-crist-live-special-taping/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-26",
     "sources": [
-      "Workhouse Arts Center"
+      "ArtsFairfax"
     ]
   },
   {
-    "id": "6a3e56b208d9e197",
-    "title": "Lucy Burns Museum Learning at Lunch",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-09-25",
-    "time": "12:00 PM",
+    "id": "e3d6fbcb125266a9",
+    "title": "Music From The Sole-I Didn’t Come to Stay",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-26",
+    "time": "See official listing",
     "price": null,
     "priceType": null,
-    "cat": "Cultural",
+    "cat": "Music",
     "deal": false,
     "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from a public event calendar; confirm details on the official/source listing.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "7cb96388874eb8c2",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-25",
-    "time": "6 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-25/?hide_subsequent_recurrences=1",
+    "url": "https://artsfairfax.org/event/music-from-the-sole-i-didnt-come-to-stay/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-26"
+  },
+  {
+    "id": "842d2ff58b7d3c76",
+    "title": "Rt 123. Comedy featuring Zack Lyman",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-26",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Comedy",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/rt-123-comedy-featuring-zack-lyman/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-26"
   },
   {
     "id": "a1dd7fe2f074ffc8",
@@ -502,6 +446,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "61d85f282967d383",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-01",
+    "time": "12 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "dbb211265f143468",
@@ -645,7 +607,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "071c4dacdf2214c3",
@@ -789,7 +754,28 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
+  },
+  {
+    "id": "28e27be7cc13a8c1",
+    "title": "Language Selection",
+    "venue": "Fairfax County parks",
+    "city": "Fairfax County",
+    "date": "2026-10-10",
+    "time": "4:00PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/events/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 10
   },
   {
     "id": "85151b8c71562b89",
@@ -849,7 +835,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "e8db8354b2fe5041",
@@ -909,7 +898,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "fc50f17e9847b43a",
@@ -948,7 +940,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "01a244cd932a4f6f",
@@ -1008,7 +1003,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "fb268576e4728719",
@@ -1026,7 +1024,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "9a41c393d7971354",
@@ -1044,7 +1045,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "c318fed7aef36024",
@@ -1062,7 +1066,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "e75b5e0b983266ab",
@@ -1080,7 +1087,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "1c3fe64ae9c5c0ec",
@@ -1098,7 +1108,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "197f97c1a0639acd",
@@ -1159,7 +1172,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "846a0cfa711242d9",
@@ -1259,7 +1275,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "d89acf867cedb868",
