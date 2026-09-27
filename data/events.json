@@ -66,28 +66,6 @@
     ]
   },
   {
-    "id": "7a268ea1e7cabc0b",
-    "title": "Celebrating Hispanic Heritage: Voices Through Visuals Art Exhibit at Del Ray Artisans Gallery",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-05",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Arts & Market",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/celebrating-hispanic-heritage-voices-through-visuals-art-exhibit-at-del-ray-artisans-gallery/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-26",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "211d81ed32cb7e63",
     "title": "Natural Wonders by Rosemarie Forsythe",
     "venue": "Fairfax-area venue",
@@ -214,7 +192,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-10-11"
+    "end": "2026-10-11",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "f42341b2117d4c95",
@@ -283,127 +264,80 @@
     ]
   },
   {
-    "id": "add7fc24e454b56d",
-    "title": "John Crist Live Special Taping",
+    "id": "9b410e59b6beaecc",
+    "title": "Bryan Stevenson",
     "venue": "Fairfax-area venue",
     "city": "Fairfax County",
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "time": "See official listing",
     "price": null,
     "priceType": null,
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://artsfairfax.org/event/john-crist-live-special-taping/",
+    "url": "https://artsfairfax.org/event/bryan-stevenson/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-09-26",
-    "sources": [
-      "ArtsFairfax"
-    ]
+    "end": "2026-09-27"
   },
   {
-    "id": "e3d6fbcb125266a9",
-    "title": "Music From The Sole-I Didn’t Come to Stay",
+    "id": "d8485c27bf482c09",
+    "title": "Classically European",
     "venue": "Fairfax-area venue",
     "city": "Fairfax County",
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/music-from-the-sole-i-didnt-come-to-stay/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-26"
-  },
-  {
-    "id": "842d2ff58b7d3c76",
-    "title": "Rt 123. Comedy featuring Zack Lyman",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-26",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Comedy",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/rt-123-comedy-featuring-zack-lyman/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-26"
-  },
-  {
-    "id": "a1dd7fe2f074ffc8",
-    "title": "CANCELLED: Rt 123. Comedy featuring Zack Lyman | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-09-26",
-    "time": "7:30PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Comedy",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/rt-123-featuring-zack-lyman",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "451fa3aceaf97db4",
-    "title": "Events | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-09-26",
-    "time": "4:00 PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets",
+    "url": "https://artsfairfax.org/event/classically-european/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-27"
   },
   {
-    "id": "c1efab0f915a5e2e",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-26",
-    "time": "10:00 AM",
-    "price": 0,
+    "id": "2743ab7b8c17b743",
+    "title": "The Blue Monster – A Fairytale Play",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-27",
+    "time": "See official listing",
+    "price": 10.0,
+    "priceType": "fixed",
+    "cat": "Theatre",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/the-blue-monster-a-fairytale-play/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-27"
+  },
+  {
+    "id": "b2305d7eafd45e62",
+    "title": "Workshop: Gold Leaf Gilding and Acrylic Painting",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-09-27",
+    "time": "See official listing",
+    "price": 130.0,
     "priceType": "fixed",
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-26/?hide_subsequent_recurrences=1",
+    "url": "https://artsfairfax.org/event/workshop-gold-leaf-gilding-and-acrylic-painting/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-09-27"
   },
   {
     "id": "0da58aacb76b7223",
@@ -463,7 +397,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "dbb211265f143468",
@@ -775,7 +712,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "Fairfax County Park Authority",
-    "driveMin": 10
+    "driveMin": 10,
+    "sources": [
+      "Fairfax County Park Authority"
+    ]
   },
   {
     "id": "85151b8c71562b89",
@@ -967,6 +907,24 @@
     ]
   },
   {
+    "id": "d21892afe2271960",
+    "title": "Concord Theatricals. www.concordtheatricals.com Auditions Open Audition Announcement: Rumors",
+    "venue": "Fauquier Community Theatre",
+    "city": "Warrenton",
+    "date": "2026-10-16",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://fauquiertheatre.org/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Fauquier Community Theatre",
+    "driveMin": 50
+  },
+  {
     "id": "a95d004b4e3847a5",
     "title": "Fall Mini Golf Tournaments",
     "venue": "Workhouse Arts Center",
@@ -1007,6 +965,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "d61d109b43dfaf6b",
+    "title": "at 6:30 PM",
+    "venue": "Fauquier Community Theatre",
+    "city": "Warrenton",
+    "date": "2026-10-17",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://fauquiertheatre.org/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Fauquier Community Theatre",
+    "driveMin": 50
   },
   {
     "id": "fb268576e4728719",
