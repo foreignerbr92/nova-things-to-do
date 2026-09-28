@@ -66,28 +66,6 @@
     ]
   },
   {
-    "id": "211d81ed32cb7e63",
-    "title": "Natural Wonders by Rosemarie Forsythe",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-05",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/natural-wonders-by-rosemarie-forsythe/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-27",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "b4f85d26f9c03352",
     "title": "“Threads of Culture, Threads of Memory” Art Exhibit",
     "venue": "Fairfax-area venue",
@@ -151,28 +129,6 @@
     "end": "2026-10-11",
     "sources": [
       "NextStop Theatre"
-    ]
-  },
-  {
-    "id": "1af271f959b4c10a",
-    "title": "lfred Hitchcock And an original concept by Simon Corble and Nobby Dimon",
-    "venue": "Klein Theatre",
-    "city": "Fredericksburg",
-    "date": "2026-09-17",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": true,
-    "verified": true,
-    "url": "https://cas.umw.edu/theatre/klein-theatre/season/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "UMW Theatre",
-    "driveMin": 65,
-    "end": "2026-09-27",
-    "sources": [
-      "UMW Theatre"
     ]
   },
   {
@@ -242,123 +198,22 @@
     ]
   },
   {
-    "id": "ebd735d738a8056a",
-    "title": "ValeArts Fall show and sale",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-25",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/valearts-fall-show-and-sale/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-27",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "9b410e59b6beaecc",
-    "title": "Bryan Stevenson",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-27",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/bryan-stevenson/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-27"
-  },
-  {
-    "id": "d8485c27bf482c09",
-    "title": "Classically European",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-27",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/classically-european/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-27"
-  },
-  {
-    "id": "2743ab7b8c17b743",
-    "title": "The Blue Monster – A Fairytale Play",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-27",
-    "time": "See official listing",
-    "price": 10.0,
-    "priceType": "fixed",
-    "cat": "Theatre",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/the-blue-monster-a-fairytale-play/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-27"
-  },
-  {
-    "id": "b2305d7eafd45e62",
-    "title": "Workshop: Gold Leaf Gilding and Acrylic Painting",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-27",
-    "time": "See official listing",
-    "price": 130.0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/workshop-gold-leaf-gilding-and-acrylic-painting/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-27"
-  },
-  {
-    "id": "0da58aacb76b7223",
+    "id": "0d4b6ab1f8377062",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
     "city": "Winchester",
-    "date": "2026-09-27",
-    "time": "10AM",
-    "price": 0,
-    "priceType": "fixed",
+    "date": "2026-09-28",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-27/?hide_subsequent_recurrences=1",
+    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "driveMin": 75
   },
   {
     "id": "34099dc0f0d60dba",
@@ -922,7 +777,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Fauquier Community Theatre",
-    "driveMin": 50
+    "driveMin": 50,
+    "sources": [
+      "Fauquier Community Theatre"
+    ]
   },
   {
     "id": "a95d004b4e3847a5",
@@ -982,7 +840,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Fauquier Community Theatre",
-    "driveMin": 50
+    "driveMin": 50,
+    "sources": [
+      "Fauquier Community Theatre"
+    ]
   },
   {
     "id": "fb268576e4728719",
