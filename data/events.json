@@ -198,71 +198,6 @@
     ]
   },
   {
-    "id": "d37be97625f6ecbd",
-    "title": "McLean Project for the Arts to Host September 30 Tea & Talk",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-30",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/mclean-project-for-the-arts-to-host-september-30-artist-talk/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-30",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "11ac10b44a8d3a70",
-    "title": "Slow Looking",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-30",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/slow-looking/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-09-30",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "34099dc0f0d60dba",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-09-30/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "caa18f9d248e23b8",
     "title": "Fall Clearance Sale ~ Squill Calligraphy Studio",
     "venue": "Fairfax-area venue",
@@ -329,6 +264,25 @@
     ]
   },
   {
+    "id": "a1c4642af389a425",
+    "title": "Shelter House: Art for a Cause with Erika James-Jackson at Nepenthe Gallery",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-10-01",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Arts & Market",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/shelter-house-art-for-a-cause-with-erika-james-jackson-at-nepenthe-gallery/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-10-01"
+  },
+  {
     "id": "7d70be0ce2bbd43b",
     "title": "The Bold Bakery artoberVA Sale",
     "venue": "Fairfax-area venue",
@@ -345,7 +299,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-10-31"
+    "end": "2026-10-31",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "8ff0a0127991fc9d",
@@ -368,6 +325,25 @@
     "sources": [
       "ArtsFairfax"
     ]
+  },
+  {
+    "id": "d8c201bd18da75c6",
+    "title": "artoberVA at ArTeA TeaShop",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-10-01",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/artoberva-at-artea-teashop/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-10-23"
   },
   {
     "id": "61d85f282967d383",
@@ -430,6 +406,27 @@
     "driveMin": 75,
     "sources": [
       "Winchester-Frederick County CVB"
+    ]
+  },
+  {
+    "id": "3fcfa3bd5d207c0e",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-02",
+    "time": "6PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
     ]
   },
   {
@@ -790,6 +787,24 @@
     ]
   },
   {
+    "id": "4de64924e7b33605",
+    "title": "Masterworks in Motion | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-11",
+    "time": "3PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/masterworks-in-motion",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
+  },
+  {
     "id": "405dbd166ff7a7e6",
     "title": "Poetry in Motion | Capital One Hall",
     "venue": "Capital One Hall",
@@ -1015,7 +1030,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "9a41c393d7971354",
@@ -1206,6 +1224,24 @@
     "driveMin": 10
   },
   {
+    "id": "4cb9aaee7becde6d",
+    "title": "Winter Walk of Lights",
+    "venue": "NOVA Parks",
+    "city": "Northern Virginia",
+    "date": "2026-11-11",
+    "time": "10:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.novaparks.com/events/winter-walk-of-lights",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "NOVA Parks",
+    "driveMin": 35
+  },
+  {
     "id": "aa842172adbf0d96",
     "title": "Lucy Burns Museum Learning at Lunch",
     "venue": "Workhouse Arts Center",
@@ -1245,6 +1281,24 @@
     "driveMin": 10
   },
   {
+    "id": "9e89b0526152d2ce",
+    "title": "Bull Run Festival of Lights",
+    "venue": "NOVA Parks",
+    "city": "Northern Virginia",
+    "date": "2026-11-14",
+    "time": "9:30 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.novaparks.com/events/bull-run-festival-of-lights",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "NOVA Parks",
+    "driveMin": 35
+  },
+  {
     "id": "3ca8338558ac4626",
     "title": "Lucy Burns Museum EqualiTEA - A Turning Point",
     "venue": "Workhouse Arts Center",
@@ -1266,6 +1320,24 @@
     ]
   },
   {
+    "id": "33afbd10c9536923",
+    "title": "Language Selection",
+    "venue": "Fairfax County parks",
+    "city": "Fairfax County",
+    "date": "2026-12-09",
+    "time": "2:00PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/events/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 10
+  },
+  {
     "id": "0f4f04e276af745d",
     "title": "Lucy Burns Museum Learning at Lunch",
     "venue": "Workhouse Arts Center",
@@ -1285,6 +1357,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "e4d5d6d7bc52e3a3",
+    "title": "Bright Nights",
+    "venue": "NOVA Parks",
+    "city": "Northern Virginia",
+    "date": "2026-12-30",
+    "time": "8PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.novaparks.com/events/bright-nights",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "NOVA Parks",
+    "driveMin": 35
   },
   {
     "id": "d89acf867cedb868",
@@ -1395,6 +1485,24 @@
     ]
   },
   {
+    "id": "458b3a78f9fd62ae",
+    "title": "Events for 10/01/2026",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "9PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/today/?hide_subsequent_recurrences=1&shortcode=f0b1cb7d",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
+  },
+  {
     "id": "91894ae5fe627e54",
     "title": "Events for September 2026",
     "venue": "The Birchmere",
@@ -1414,6 +1522,24 @@
     "sources": [
       "The Birchmere"
     ]
+  },
+  {
+    "id": "b30fd86aadb86d1d",
+    "title": "Events from October 1 - 05/14/2027",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "9PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/list/?hide_subsequent_recurrences=1&shortcode=f0b1cb7d",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
   },
   {
     "id": "97aef0a0a7494fca",
@@ -1473,7 +1599,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "The Birchmere",
-    "driveMin": 40
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
+    ]
   },
   {
     "id": "6e6e18fe7f373cd5",
