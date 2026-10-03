@@ -214,7 +214,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-10-31"
+    "end": "2026-10-31",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "caa18f9d248e23b8",
@@ -327,130 +330,6 @@
     ]
   },
   {
-    "id": "d50c9b013aefe1c1",
-    "title": "Kanan Gill: Not This Again",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-02",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/kanan-gill-not-this-again/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-02"
-  },
-  {
-    "id": "3fcfa3bd5d207c0e",
-    "title": "Events | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-10-02",
-    "time": "6PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "5fafcd486d79695b",
-    "title": "Kanan Gill: Not This Again | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-10-02",
-    "time": "6PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/kanan-gill-this-guy-live",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "968a5e18a17f5e63",
-    "title": "Shumaun | Union Stage Presents",
-    "venue": "Jammin Java",
-    "city": "Vienna",
-    "date": "2026-10-02",
-    "time": "7:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.unionstagepresents.com/shows/uga-buga-01-oct",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Jammin Java",
-    "driveMin": 25,
-    "sources": [
-      "Jammin Java"
-    ]
-  },
-  {
-    "id": "b7609fc794d84b9d",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-02",
-    "time": "10AM",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-02/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
-    "id": "86591c1b4bb4f801",
-    "title": "Valley Glasshoppers Fall 2026 Glass Show and Sale",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-02",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "871ef75aa932dcd5",
     "title": "Events Calendar — Workhouse Arts Center",
     "venue": "Workhouse Arts Center",
@@ -466,7 +345,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "2182b38bb9c4dbd2",
@@ -589,7 +471,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "575322d0fc032cbb",
@@ -607,7 +492,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "ebab173d634ca96a",
@@ -625,7 +513,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "b330bdd3af8102a5",
@@ -643,7 +534,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "c81052ddae7ecc94",
@@ -661,7 +555,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "07d0b457440061a4",
@@ -706,6 +603,27 @@
     ]
   },
   {
+    "id": "f46048808b214827",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-09",
+    "time": "6:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "d36ebbcf96537a93",
     "title": "Lucy Burns Museum Historic Flashlight Tours",
     "venue": "Workhouse Arts Center",
@@ -732,7 +650,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-10-09",
-    "time": "See official listing",
+    "time": "5PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
@@ -742,7 +660,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "28e27be7cc13a8c1",
@@ -844,7 +765,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "e8db8354b2fe5041",
@@ -946,7 +870,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "11656924e6704d94",
@@ -964,7 +891,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "fc50f17e9847b43a",
@@ -1003,7 +933,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "1858d5d8c9067185",
@@ -1084,7 +1017,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "a95d004b4e3847a5",
@@ -1165,7 +1101,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "fb268576e4728719",
@@ -1225,7 +1164,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "d711970afe8f8f6f",
@@ -1243,7 +1185,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "6a4de6490e596e02",
@@ -1251,7 +1196,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-10-22",
-    "time": "See official listing",
+    "time": "5PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
@@ -1261,7 +1206,28 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
+  },
+  {
+    "id": "04f7e2a2f8b4aabf",
+    "title": "Toad the Wet Sprocket Rings: The Acoustic Tour | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-23",
+    "time": "6:30 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/toad-the-wet-sprocket-rings-the-acoustic-tour",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "9a41c393d7971354",
@@ -1290,7 +1256,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-10-23",
-    "time": "See official listing",
+    "time": "5PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
@@ -1300,7 +1266,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "c318fed7aef36024",
@@ -1339,7 +1308,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "e75b5e0b983266ab",
@@ -1378,7 +1350,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "fd5c07fbf0ead722",
@@ -1396,7 +1371,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "0eece928cffa6423",
@@ -1414,7 +1392,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "1c3fe64ae9c5c0ec",
@@ -1453,7 +1434,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "02bc9275e1330504",
@@ -1471,7 +1455,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "197f97c1a0639acd",
@@ -1638,6 +1625,24 @@
     "driveMin": 10
   },
   {
+    "id": "4dd5bf820c0968db",
+    "title": "Bright Nights",
+    "venue": "NOVA Parks",
+    "city": "Northern Virginia",
+    "date": "2026-11-14",
+    "time": "8PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.novaparks.com/events/bright-nights",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "NOVA Parks",
+    "driveMin": 35
+  },
+  {
     "id": "9e89b0526152d2ce",
     "title": "Bull Run Festival of Lights",
     "venue": "NOVA Parks",
@@ -1674,7 +1679,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "3ca8338558ac4626",
