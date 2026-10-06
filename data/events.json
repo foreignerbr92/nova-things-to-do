@@ -330,27 +330,6 @@
     ]
   },
   {
-    "id": "575322d0fc032cbb",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-05",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-05/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "ebab173d634ca96a",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -475,6 +454,24 @@
     "sources": [
       "Capital One Hall"
     ]
+  },
+  {
+    "id": "12224495cf7cfbce",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-09",
+    "time": "7:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "94d8484c348038b3",
