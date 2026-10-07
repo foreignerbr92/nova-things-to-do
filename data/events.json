@@ -330,27 +330,6 @@
     ]
   },
   {
-    "id": "ebab173d634ca96a",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-06",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-06/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "b330bdd3af8102a5",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -471,7 +450,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "94d8484c348038b3",
@@ -724,6 +706,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "011213f51e5e9eb9",
+    "title": "Alice in Wonderland Ballet - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-10-10",
+    "time": "2PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/event/alice-in-wonderland-ballet/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
   },
   {
     "id": "29352691804d0a4a",
