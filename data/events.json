@@ -330,25 +330,23 @@
     ]
   },
   {
-    "id": "b330bdd3af8102a5",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-07",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
+    "id": "71c430a895e5ad3f",
+    "title": "Carnival of Curiosities Art Exhibit at Del Ray Artisans Gallery",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-10-02",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Arts & Market",
     "deal": false,
     "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-07/?hide_subsequent_recurrences=1",
+    "url": "https://artsfairfax.org/event/carnival-of-curiosities-art-exhibit-at-del-ray-artisans-gallery/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-10-31"
   },
   {
     "id": "c81052ddae7ecc94",
@@ -899,7 +897,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-10-14",
-    "time": "See official listing",
+    "time": "6:00 PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
