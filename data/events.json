@@ -352,153 +352,6 @@
     ]
   },
   {
-    "id": "07d0b457440061a4",
-    "title": "Arash Live in Northern VA | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-10-09",
-    "time": "8PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/arash-live-in-washington-dc-dmv",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "4651969b1948c804",
-    "title": "Dark & Stormy | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-10-09",
-    "time": "6:30PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/dark-stormy",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "f46048808b214827",
-    "title": "Events | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-10-09",
-    "time": "6:30PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "12224495cf7cfbce",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-09",
-    "time": "7:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "94d8484c348038b3",
-    "title": "HAUNT: Dark Encounters",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-09",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "d36ebbcf96537a93",
-    "title": "Lucy Burns Museum Historic Flashlight Tours",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-09",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Cultural",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "7893801f56b10080",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-09",
-    "time": "5PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-09/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "28e27be7cc13a8c1",
     "title": "Language Selection",
     "venue": "Fairfax County parks",
@@ -727,6 +580,27 @@
     ]
   },
   {
+    "id": "ac7aeeacc84c882e",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-11",
+    "time": "1 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "e8db8354b2fe5041",
     "title": "Group Sales | Capital One Hall | Tysons, VA | Capital One Hall",
     "venue": "Capital One Hall",
@@ -889,7 +763,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "Fairfax County Park Authority",
-    "driveMin": 10
+    "driveMin": 10,
+    "sources": [
+      "Fairfax County Park Authority"
+    ]
   },
   {
     "id": "11656924e6704d94",
@@ -1438,6 +1315,24 @@
     ]
   },
   {
+    "id": "9c59d935350dffab",
+    "title": "Rt. 123 Comedy ft. Suzanne Lambert | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-24",
+    "time": "7:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Comedy",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/rt-123-comedy-ft-suzanne-lambert",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
+  },
+  {
     "id": "81dbb1a8c19ac4e3",
     "title": "Bat Boy The Musical",
     "venue": "Workhouse Arts Center",
@@ -1520,6 +1415,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "eb43da38b0c2d092",
+    "title": "Wyclef Jean | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-25",
+    "time": "6PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/wyclef-jean",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "5f5956ce84f47e5b",
@@ -1606,12 +1519,30 @@
     ]
   },
   {
+    "id": "e78c61572f73664a",
+    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-10-27",
+    "time": "9:00 AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/events/2026-10-27/?hide_subsequent_recurrences=1",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
+  },
+  {
     "id": "fd5c07fbf0ead722",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-10-28",
-    "time": "See official listing",
+    "time": "6:00 PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
@@ -2062,6 +1993,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "2aff4e1408edebae",
+    "title": "Sound Bath",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-11-15",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "33afbd10c9536923",
@@ -2991,8 +2940,8 @@
     ]
   },
   {
-    "id": "b30fd86aadb86d1d",
-    "title": "Events from October 1 - 05/14/2027",
+    "id": "59f9515664f8c34a",
+    "title": "Events from October 10 - 05/14/2027",
     "venue": "The Birchmere",
     "city": "Alexandria",
     "date": "2027-04-06",
