@@ -308,24 +308,6 @@
     ]
   },
   {
-    "id": "d19b7e1503a95fe4",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-12",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
-  },
-  {
     "id": "60a7dfe3cdf03314",
     "title": "Language Selection",
     "venue": "Fairfax County parks",
@@ -366,6 +348,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "f4378ad2deb75c1d",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-15",
+    "time": "10:00 AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "fc50f17e9847b43a",
@@ -809,6 +809,27 @@
     ]
   },
   {
+    "id": "4eeaabcf321cfafb",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-23",
+    "time": "7:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "04f7e2a2f8b4aabf",
     "title": "Toad the Wet Sprocket Rings: The Acoustic Tour | Capital One Hall",
     "venue": "Capital One Hall",
@@ -1166,6 +1187,24 @@
     ]
   },
   {
+    "id": "6b83ee044959522a",
+    "title": "Wolf Trap Presents Art Garfunkel at Capital One Hall | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-30",
+    "time": "6:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/art-garfunkel-what-a-wonderful-world-concerts",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
+  },
+  {
     "id": "9fe03f198b0ac726",
     "title": "HAUNT: Dark Encounters",
     "venue": "Workhouse Arts Center",
@@ -1227,6 +1266,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "03237aaffcea2ffe",
+    "title": "The Gathering Gloom: A Tribute to The Cure | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-31",
+    "time": "7:00PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/the-gathering-gloom-a-tribute-to-the-cure",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "02bc9275e1330504",
