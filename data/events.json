@@ -365,7 +365,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "fc50f17e9847b43a",
