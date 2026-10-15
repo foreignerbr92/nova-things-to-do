@@ -66,28 +66,6 @@
     ]
   },
   {
-    "id": "b4f85d26f9c03352",
-    "title": "“Threads of Culture, Threads of Memory” Art Exhibit",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-12",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Arts & Market",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/threads-of-culture-threads-of-memory-art-exhibit/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-14",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "7b1c1cd787d2978a",
     "title": "McLean Project for the Arts to Debut Fall Solo Exhibitions September 17 at Berlage Center for Arts & Education",
     "venue": "Fairfax-area venue",
@@ -305,48 +283,6 @@
     "end": "2026-10-31",
     "sources": [
       "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "60a7dfe3cdf03314",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
-    "city": "Fairfax County",
-    "date": "2026-10-14",
-    "time": "9:30AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10,
-    "sources": [
-      "Fairfax County Park Authority"
-    ]
-  },
-  {
-    "id": "11656924e6704d94",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-14",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-14/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
     ]
   },
   {
@@ -775,7 +711,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-10-21",
-    "time": "See official listing",
+    "time": "6:00 PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
