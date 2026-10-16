@@ -286,12 +286,12 @@
     ]
   },
   {
-    "id": "f4378ad2deb75c1d",
+    "id": "44935a9f3507e33f",
     "title": "Events Calendar — Workhouse Arts Center",
     "venue": "Workhouse Arts Center",
     "city": "Lorton",
-    "date": "2026-10-15",
-    "time": "10:00 AM",
+    "date": "2026-10-16",
+    "time": "12:00 PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
@@ -301,52 +301,7 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "fc50f17e9847b43a",
-    "title": "Lucy Burns Museum Historic Campus Walking Tour",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-15",
-    "time": "10:00 AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Cultural",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from a public event calendar; confirm details on the official/source listing.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "4e6de81740b0aba8",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-15",
-    "time": "5:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-15/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "driveMin": 35
   },
   {
     "id": "084a07e258d9a59a",
@@ -2461,6 +2416,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "78ab2c90b1ef67c0",
+    "title": "2027 Sondheim Award Gala",
+    "venue": "Signature Theatre",
+    "city": "Arlington",
+    "date": "2027-04-05",
+    "time": "6PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.sigtheatre.org/shows-and-events/all-events/2026-2027/2027-sondheim-award-gala",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Signature Theatre",
+    "driveMin": 35
   },
   {
     "id": "2e8d7fd5c7c5202c",
