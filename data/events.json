@@ -44,28 +44,6 @@
     ]
   },
   {
-    "id": "e10e7a451c2b0135",
-    "title": "Fiber & Identity: The Maker’s Voice",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-01",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/fiber-identity-the-makers-voice/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-17",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "7b1c1cd787d2978a",
     "title": "McLean Project for the Arts to Debut Fall Solo Exhibitions September 17 at Berlage Center for Arts & Education",
     "venue": "Fairfax-area venue",
@@ -286,153 +264,6 @@
     ]
   },
   {
-    "id": "620eb9ab4349f79a",
-    "title": "Bat Boy The Musical",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-17",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Theatre",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "a95d004b4e3847a5",
-    "title": "Fall Mini Golf Tournaments",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-17",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "8b885450a867abbb",
-    "title": "HAUNT: Dark Encounters",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-17",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "97274f85fdfa7e1c",
-    "title": "Lucy Burns Museum Historic Flashlight Tours",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-17",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Cultural",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "3b4d067645263c60",
-    "title": "Music is holding our Fifth Annual Fall Fest in collaboration with Workhouse Arts Center on",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-17",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "d61d109b43dfaf6b",
-    "title": "at 6:30 PM",
-    "venue": "Fauquier Community Theatre",
-    "city": "Warrenton",
-    "date": "2026-10-17",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://fauquiertheatre.org/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Fauquier Community Theatre",
-    "driveMin": 50,
-    "sources": [
-      "Fauquier Community Theatre"
-    ]
-  },
-  {
-    "id": "8fede7e2691672eb",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-17",
-    "time": "11:00 AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-17/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "07ef3f32d5f112e6",
     "title": "Bat Boy The Musical",
     "venue": "Workhouse Arts Center",
@@ -553,7 +384,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "Fairfax County Park Authority",
-    "driveMin": 10
+    "driveMin": 10,
+    "sources": [
+      "Fairfax County Park Authority"
+    ]
   },
   {
     "id": "d711970afe8f8f6f",
@@ -1117,7 +951,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "e2025566969201b0",
