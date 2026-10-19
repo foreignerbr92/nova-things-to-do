@@ -88,28 +88,6 @@
     ]
   },
   {
-    "id": "e6223755315a12db",
-    "title": "Hakawatis",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-09-24",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/hakawatis/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-18",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "07ff2a30ed1d23ae",
     "title": "Discount at the Craft Gallery of Artisans United",
     "venue": "Fairfax-area venue",
@@ -264,109 +242,79 @@
     ]
   },
   {
-    "id": "07ef3f32d5f112e6",
-    "title": "Bat Boy The Musical",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-18",
+    "id": "18da00797aa94148",
+    "title": "Dabke Dance Classes",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-10-06",
     "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Theatre",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "41b47328f52cbcae",
-    "title": "HAUNT: Dark Encounters",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-18",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
+    "price": 35.0,
+    "priceType": "starting",
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
+    "url": "https://artsfairfax.org/event/dabke-dance-classes/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-03"
   },
   {
-    "id": "fb268576e4728719",
-    "title": "Lucy Burns Museum Historic Flashlight Tours",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-18",
+    "id": "c655295861c9153c",
+    "title": "Music Sampler",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-10-06",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/music-sampler-6/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-10-27"
+  },
+  {
+    "id": "316345dca1d26ff4",
+    "title": "Gallery B Presents “Layered Lives: Women in Print”",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-10-09",
     "time": "See official listing",
     "price": null,
     "priceType": null,
-    "cat": "Cultural",
+    "cat": "Arts & Market",
     "deal": false,
     "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
+    "url": "https://artsfairfax.org/event/gallery-b-presents-layered-lives-women-in-print/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-01"
   },
   {
-    "id": "dad3c7d79c65c799",
-    "title": "Sound Bath",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-18",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "d3154ccc26494003",
+    "id": "bcc53b95d2ef2085",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
     "city": "Winchester",
-    "date": "2026-10-18",
-    "time": "2 PM",
+    "date": "2026-10-19",
+    "time": "See official listing",
     "price": null,
     "priceType": null,
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-18/?hide_subsequent_recurrences=1",
+    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "driveMin": 75
   },
   {
     "id": "40229424410c77cb",
@@ -472,6 +420,24 @@
     "sources": [
       "Capital One Hall"
     ]
+  },
+  {
+    "id": "bf6d58c127d8a4ee",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-10-23",
+    "time": "7:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "feb3a1a16964fd7e",
