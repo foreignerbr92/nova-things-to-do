@@ -258,7 +258,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-03"
+    "end": "2026-11-03",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "c655295861c9153c",
@@ -277,7 +280,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-10-27"
+    "end": "2026-10-27",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "316345dca1d26ff4",
@@ -296,14 +302,17 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-01"
+    "end": "2026-11-01",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
-    "id": "bcc53b95d2ef2085",
+    "id": "e912a509ea3bd985",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
     "city": "Winchester",
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "time": "See official listing",
     "price": null,
     "priceType": null,
@@ -437,7 +446,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "feb3a1a16964fd7e",
