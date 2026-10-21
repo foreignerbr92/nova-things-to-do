@@ -308,24 +308,6 @@
     ]
   },
   {
-    "id": "e912a509ea3bd985",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-20",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
-  },
-  {
     "id": "40229424410c77cb",
     "title": "Language Selection",
     "venue": "Fairfax County parks",
@@ -1223,6 +1205,24 @@
     "sources": [
       "NOVA Parks"
     ]
+  },
+  {
+    "id": "b9b3d55fbbf9a87b",
+    "title": "StoryWorx Book Festival",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-11-14",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Festival",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "4fa41d9fb349bf15",
@@ -2381,6 +2381,24 @@
     "sources": [
       "The Birchmere"
     ]
+  },
+  {
+    "id": "8f90c9569d1faa71",
+    "title": "The Birchmere Presents BRIAN CULBERTSON “The Midnight Tapes Tour” at the Warner Theatre!",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-08",
+    "time": "8:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Theatre",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/the-birchmere-presents-brian-culbertson-the-midnight-tapes-tour-at-the-warner-theatre/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
   },
   {
     "id": "2243ddbad87b73d4",
