@@ -198,28 +198,6 @@
     ]
   },
   {
-    "id": "d8c201bd18da75c6",
-    "title": "artoberVA at ArTeA TeaShop",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-01",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/artoberva-at-artea-teashop/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-23",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "71c430a895e5ad3f",
     "title": "Carnival of Curiosities Art Exhibit at Del Ray Artisans Gallery",
     "venue": "Fairfax-area venue",
@@ -308,11 +286,30 @@
     ]
   },
   {
-    "id": "4eeaabcf321cfafb",
+    "id": "949f545510f7593a",
+    "title": "Dracula’s Midnight Masquerade",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-10-16",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/draculas-midnight-masquerade/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-01"
+  },
+  {
+    "id": "40063d1bef8a5751",
     "title": "Events | Capital One Hall",
     "venue": "Capital One Hall",
     "city": "Tysons",
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "time": "7:00 PM",
     "price": null,
     "priceType": null,
@@ -326,111 +323,6 @@
     "driveMin": 25,
     "sources": [
       "Capital One Hall"
-    ]
-  },
-  {
-    "id": "04f7e2a2f8b4aabf",
-    "title": "Toad the Wet Sprocket Rings: The Acoustic Tour | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-10-23",
-    "time": "6:30 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/toad-the-wet-sprocket-rings-the-acoustic-tour",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "bf6d58c127d8a4ee",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-23",
-    "time": "7:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "feb3a1a16964fd7e",
-    "title": "HAUNT: Dark Encounters",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-23",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "9a41c393d7971354",
-    "title": "Lucy Burns Museum Historic Flashlight Tours",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-23",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Cultural",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "a4d619e46f08c3ca",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-23",
-    "time": "5PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-23/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
     ]
   },
   {
@@ -665,6 +557,24 @@
     ]
   },
   {
+    "id": "18f67630ecd7ac7c",
+    "title": "Language Selection",
+    "venue": "Fairfax County parks",
+    "city": "Fairfax County",
+    "date": "2026-10-28",
+    "time": "9:30AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/events/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 10
+  },
+  {
     "id": "fd5c07fbf0ead722",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -894,6 +804,24 @@
     "sources": [
       "NOVA Parks"
     ]
+  },
+  {
+    "id": "da3272fdbe16f1b9",
+    "title": "Dante Gebel World Tour Despedida 2026 | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-04",
+    "time": "7PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/dante-gebel-world-tour-despedida-2026",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "cf4a048168720852",
