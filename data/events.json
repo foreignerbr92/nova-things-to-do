@@ -308,40 +308,23 @@
     ]
   },
   {
-    "id": "427b70bc6dc8933c",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
+    "id": "31dc98927c3b3b69",
+    "title": "Immersive Sound Bath",
+    "venue": "Fairfax-area venue",
     "city": "Fairfax County",
-    "date": "2026-10-26",
-    "time": "6:00PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10
-  },
-  {
-    "id": "c0a1300e0275d1a6",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "time": "See official listing",
     "price": null,
     "priceType": null,
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
+    "url": "https://artsfairfax.org/event/immersive-sound-bath/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-10-27"
   },
   {
     "id": "e807e32adeda0462",
@@ -446,8 +429,29 @@
     ]
   },
   {
-    "id": "6b83ee044959522a",
-    "title": "Wolf Trap Presents Art Garfunkel at Capital One Hall | Capital One Hall",
+    "id": "7ac695c9fd02b5e4",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-10-30",
+    "time": "6:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
+    "id": "32da368e4256f971",
+    "title": "POSTPONED: Wolf Trap Presents Art Garfunkel at Capital One Hall | Capital One Hall",
     "venue": "Capital One Hall",
     "city": "Tysons",
     "date": "2026-10-30",
@@ -482,7 +486,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "9fe03f198b0ac726",
@@ -584,7 +591,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "NOVA Parks",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "NOVA Parks"
+    ]
   },
   {
     "id": "f24dd921b8d46f41",
@@ -602,7 +612,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "NOVA Parks",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "NOVA Parks"
+    ]
   },
   {
     "id": "02bc9275e1330504",
@@ -704,7 +717,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "cf4a048168720852",
@@ -811,6 +827,24 @@
     "driveMin": 10
   },
   {
+    "id": "c0781e520447e101",
+    "title": "Pat McGee Band, Freddy Jones Band, & Jackopierce | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-07",
+    "time": "6:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/we-rock-cancer-pat-mcgee-band-freddy-jones-band-jackopierce",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
+  },
+  {
     "id": "d5cc8dbe35ca33e5",
     "title": "On view:",
     "venue": "Workhouse Arts Center",
@@ -830,6 +864,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "e6515a612ca9b972",
+    "title": "Heroes Off Duty Comedy Tour | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-08",
+    "time": "6PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Comedy",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/heroes-off-duty-comedy-tour",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "4cb9aaee7becde6d",
@@ -1054,7 +1106,28 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
+  },
+  {
+    "id": "1dba381744a86941",
+    "title": "Event Calendar - Franklin Park Arts Center, VA",
+    "venue": "Franklin Park Arts Center",
+    "city": "Purcellville",
+    "date": "2026-11-25",
+    "time": "10:00 AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.franklinparkartscenter.org/calendar/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Franklin Park Arts Center",
+    "driveMin": 50
   },
   {
     "id": "33afbd10c9536923",
