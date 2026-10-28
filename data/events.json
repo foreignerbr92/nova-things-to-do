@@ -242,28 +242,6 @@
     ]
   },
   {
-    "id": "c655295861c9153c",
-    "title": "Music Sampler",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-06",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/music-sampler-6/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-27",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "316345dca1d26ff4",
     "title": "Gallery B Presents “Layered Lives: Women in Print”",
     "venue": "Fairfax-area venue",
@@ -308,62 +286,23 @@
     ]
   },
   {
-    "id": "31dc98927c3b3b69",
-    "title": "Immersive Sound Bath",
+    "id": "c64354fc9c29b349",
+    "title": "Fairy Bookshelf (ages 16 and above; Register by 10/24)",
     "venue": "Fairfax-area venue",
     "city": "Fairfax County",
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "time": "See official listing",
-    "price": null,
-    "priceType": null,
+    "price": 15.0,
+    "priceType": "starting",
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://artsfairfax.org/event/immersive-sound-bath/",
+    "url": "https://artsfairfax.org/event/fairy-bookshelf-ages-16-and-above-register-by-10-24/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-10-27"
-  },
-  {
-    "id": "e807e32adeda0462",
-    "title": "Agritourism Leadership and Advisory Group - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-27",
-    "time": "9:00 AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/event/agritourism-leadership-and-advisory-group/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
-  },
-  {
-    "id": "e78c61572f73664a",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-27",
-    "time": "9:00 AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-27/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "end": "2026-10-28"
   },
   {
     "id": "18f67630ecd7ac7c",
@@ -1007,6 +946,27 @@
     ]
   },
   {
+    "id": "8dc439b7ee68e7e2",
+    "title": "Lucy Burns Museum Tour: Suffragists Night of Terror Revisited",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-11-14",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Cultural",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
+  },
+  {
     "id": "b9b3d55fbbf9a87b",
     "title": "StoryWorx Book Festival",
     "venue": "Workhouse Arts Center",
@@ -1026,6 +986,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "743086430d9004dc",
+    "title": "Events Archive - Page 2 of 112 - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-14",
+    "time": "7:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/events/list/page/2/?hide_subsequent_recurrences=1",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
   },
   {
     "id": "6633d2ed20262a68",
@@ -1127,7 +1105,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Franklin Park Arts Center",
-    "driveMin": 50
+    "driveMin": 50,
+    "sources": [
+      "Franklin Park Arts Center"
+    ]
   },
   {
     "id": "33afbd10c9536923",
@@ -1170,6 +1151,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "54ce8088f23390cb",
+    "title": "Live Theater & Concerts Loudoun VA — Franklin Park",
+    "venue": "Franklin Park Arts Center",
+    "city": "Purcellville",
+    "date": "2026-12-11",
+    "time": "10:00 AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Theatre",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.franklinparkartscenter.org/performances/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Franklin Park Arts Center",
+    "driveMin": 50
   },
   {
     "id": "6d615db9897ce256",
