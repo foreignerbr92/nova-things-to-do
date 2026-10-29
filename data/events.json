@@ -286,65 +286,23 @@
     ]
   },
   {
-    "id": "c64354fc9c29b349",
-    "title": "Fairy Bookshelf (ages 16 and above; Register by 10/24)",
+    "id": "e7b41e7c793e2557",
+    "title": "MPA to Host October 29 Artist Talk",
     "venue": "Fairfax-area venue",
     "city": "Fairfax County",
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "time": "See official listing",
-    "price": 15.0,
-    "priceType": "starting",
+    "price": null,
+    "priceType": null,
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://artsfairfax.org/event/fairy-bookshelf-ages-16-and-above-register-by-10-24/",
+    "url": "https://artsfairfax.org/event/mpa-to-host-october-29-artist-talk/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-10-28"
-  },
-  {
-    "id": "18f67630ecd7ac7c",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
-    "city": "Fairfax County",
-    "date": "2026-10-28",
-    "time": "9:30AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10,
-    "sources": [
-      "Fairfax County Park Authority"
-    ]
-  },
-  {
-    "id": "fd5c07fbf0ead722",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-28",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-28/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "end": "2026-10-29"
   },
   {
     "id": "0eece928cffa6423",
@@ -555,6 +513,24 @@
     "sources": [
       "NOVA Parks"
     ]
+  },
+  {
+    "id": "3fe81ff9f114a297",
+    "title": "between Crosstrail Blvd. and Cochran Mill Rd. for paving. Parks - Pohick Bay Regional Park - Through",
+    "venue": "NOVA Parks",
+    "city": "Northern Virginia",
+    "date": "2026-10-31",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.novaparks.com/events/event-calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "NOVA Parks",
+    "driveMin": 35
   },
   {
     "id": "02bc9275e1330504",
@@ -1168,7 +1144,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Franklin Park Arts Center",
-    "driveMin": 50
+    "driveMin": 50,
+    "sources": [
+      "Franklin Park Arts Center"
+    ]
   },
   {
     "id": "6d615db9897ce256",
