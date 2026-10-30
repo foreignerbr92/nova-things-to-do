@@ -286,46 +286,6 @@
     ]
   },
   {
-    "id": "e7b41e7c793e2557",
-    "title": "MPA to Host October 29 Artist Talk",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-29",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/mpa-to-host-october-29-artist-talk/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-29"
-  },
-  {
-    "id": "0eece928cffa6423",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-29/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "7ac695c9fd02b5e4",
     "title": "Events | Capital One Hall",
     "venue": "Capital One Hall",
@@ -530,7 +490,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "NOVA Parks",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "NOVA Parks"
+    ]
   },
   {
     "id": "02bc9275e1330504",
@@ -594,6 +557,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "cc7262a704258411",
+    "title": "Language Selection",
+    "venue": "Fairfax County parks",
+    "city": "Fairfax County",
+    "date": "2026-11-02",
+    "time": "11:00AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/events/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 10
   },
   {
     "id": "197f97c1a0639acd",
