@@ -286,132 +286,6 @@
     ]
   },
   {
-    "id": "7ac695c9fd02b5e4",
-    "title": "Events | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-10-30",
-    "time": "6:30PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "32da368e4256f971",
-    "title": "POSTPONED: Wolf Trap Presents Art Garfunkel at Capital One Hall | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-10-30",
-    "time": "6:30PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/art-garfunkel-what-a-wonderful-world-concerts",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "bfd3e05f5156f7b8",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-30",
-    "time": "7:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "9fe03f198b0ac726",
-    "title": "HAUNT: Dark Encounters",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-30",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "1c3fe64ae9c5c0ec",
-    "title": "Lucy Burns Museum Historic Flashlight Tours",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-10-30",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Cultural",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "35073eaa46fd9495",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-30",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-30/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "03237aaffcea2ffe",
     "title": "The Gathering Gloom: A Tribute to The Cure | Capital One Hall",
     "venue": "Capital One Hall",
@@ -574,7 +448,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "Fairfax County Park Authority",
-    "driveMin": 10
+    "driveMin": 10,
+    "sources": [
+      "Fairfax County Park Authority"
+    ]
   },
   {
     "id": "197f97c1a0639acd",
@@ -1068,6 +945,24 @@
     ]
   },
   {
+    "id": "34df49299e40648e",
+    "title": "Winchester Wings & Wheels - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-27",
+    "time": "10:00 AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/event/winchester-wings-wheels/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
+  },
+  {
     "id": "33afbd10c9536923",
     "title": "Language Selection",
     "venue": "Fairfax County parks",
@@ -1087,6 +982,24 @@
     "sources": [
       "Fairfax County Park Authority"
     ]
+  },
+  {
+    "id": "d0c3a4c1063a529f",
+    "title": "Events for October 2026",
+    "venue": "Franklin Park Arts Center",
+    "city": "Purcellville",
+    "date": "2026-12-10",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.franklinparkartscenter.org/event/call-for-entry-cabin-fever-film-festival/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Franklin Park Arts Center",
+    "driveMin": 50
   },
   {
     "id": "0f4f04e276af745d",
@@ -2035,6 +1948,24 @@
     "sources": [
       "The Birchmere"
     ]
+  },
+  {
+    "id": "9cfe49271bfdda6f",
+    "title": "Events from November 1 - 05/14/2027",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "7:30 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/list/?hide_subsequent_recurrences=1&shortcode=f0b1cb7d",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
   },
   {
     "id": "59f9515664f8c34a",
