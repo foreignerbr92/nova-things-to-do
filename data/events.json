@@ -88,138 +88,6 @@
     ]
   },
   {
-    "id": "07ff2a30ed1d23ae",
-    "title": "Discount at the Craft Gallery of Artisans United",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-01",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Arts & Market",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/discount-at-the-craft-gallery-of-artisans-united/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-31",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "caa18f9d248e23b8",
-    "title": "Fall Clearance Sale ~ Squill Calligraphy Studio",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-01",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/fall-clearance-sale-squill-calligraphy-studio/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-31",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "e6f75e6f51133592",
-    "title": "Reston Art Gallery artoberVA Sale",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-01",
-    "time": "See official listing",
-    "price": 100.0,
-    "priceType": "fixed",
-    "cat": "Arts & Market",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/reston-art-gallery-artoberva-sale/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-31",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "7d70be0ce2bbd43b",
-    "title": "The Bold Bakery artoberVA Sale",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-01",
-    "time": "See official listing",
-    "price": 10.0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/the-bold-bakery-artoberva-sale/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-31",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "8ff0a0127991fc9d",
-    "title": "artoberVA Special: 15% off Graphic Design Services for Arts and Nonprofit Organizations",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-01",
-    "time": "See official listing",
-    "price": 500.0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/artoberva-special-15-off-graphic-design-services-for-arts-and-nonprofit-organizations/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-31",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "71c430a895e5ad3f",
-    "title": "Carnival of Curiosities Art Exhibit at Del Ray Artisans Gallery",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-10-02",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Arts & Market",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/carnival-of-curiosities-art-exhibit-at-del-ray-artisans-gallery/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-10-31",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "18da00797aa94148",
     "title": "Dabke Dance Classes",
     "venue": "Fairfax-area venue",
@@ -286,111 +154,6 @@
     ]
   },
   {
-    "id": "03237aaffcea2ffe",
-    "title": "The Gathering Gloom: A Tribute to The Cure | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-10-31",
-    "time": "7:00PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/the-gathering-gloom-a-tribute-to-the-cure",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "9a8082a5b67fbed8",
-    "title": "Events",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-10-31",
-    "time": "8PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/events/event-calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35,
-    "sources": [
-      "NOVA Parks"
-    ]
-  },
-  {
-    "id": "f24dd921b8d46f41",
-    "title": "Things To Do",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-10-31",
-    "time": "8PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/things-to-do",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35,
-    "sources": [
-      "NOVA Parks"
-    ]
-  },
-  {
-    "id": "3fe81ff9f114a297",
-    "title": "between Crosstrail Blvd. and Cochran Mill Rd. for paving. Parks - Pohick Bay Regional Park - Through",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-10-31",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/events/event-calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35,
-    "sources": [
-      "NOVA Parks"
-    ]
-  },
-  {
-    "id": "02bc9275e1330504",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-10-31",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-10-31/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "9770f247a3aecfdf",
     "title": "CANCELLED: Strings & Ballads | Capital One Hall",
     "venue": "Capital One Hall",
@@ -403,6 +166,27 @@
     "deal": false,
     "verified": true,
     "url": "https://www.capitalonehall.com/events/detail/strings-ballads",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
+    "id": "f8334644771df740",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-01",
+    "time": "2PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
@@ -431,6 +215,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "195fd2b6d2ccf077",
+    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-01",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
   },
   {
     "id": "cc7262a704258411",
@@ -516,6 +318,24 @@
     "sources": [
       "NextStop Theatre"
     ]
+  },
+  {
+    "id": "9b594406afd7319d",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-11-05",
+    "time": "9:30 AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "506562348be0313a",
@@ -654,6 +474,27 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
+    "id": "7088df4d541f309e",
+    "title": "An Evening with John Cusack and a Special Screening of",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-10",
+    "time": "7:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/an-evening-with-john-cusack-and-a-special-screening-of-say-anything",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
     "driveMin": 25
   },
   {
@@ -676,6 +517,24 @@
     "sources": [
       "NOVA Parks"
     ]
+  },
+  {
+    "id": "f08c3bc30720aa46",
+    "title": "Australia",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-12",
+    "time": "7PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/australias-thunder-from-down-under",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "aa842172adbf0d96",
@@ -840,6 +699,27 @@
     "driveMin": 75
   },
   {
+    "id": "a89f037643f444f3",
+    "title": "Events Archive - Page 2 of 113 - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-14",
+    "time": "7PM",
+    "price": 52.0,
+    "priceType": "fixed",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/events/month/?hide_subsequent_recurrences=1",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
+  },
+  {
     "id": "6633d2ed20262a68",
     "title": "Events Archive - Page 2 of 114 - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -999,7 +879,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Franklin Park Arts Center",
-    "driveMin": 50
+    "driveMin": 50,
+    "sources": [
+      "Franklin Park Arts Center"
+    ]
   },
   {
     "id": "0f4f04e276af745d",
@@ -1965,7 +1848,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "The Birchmere",
-    "driveMin": 40
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
+    ]
   },
   {
     "id": "59f9515664f8c34a",
