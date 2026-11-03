@@ -126,48 +126,9 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-08"
-  },
-  {
-    "id": "cc7262a704258411",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
-    "city": "Fairfax County",
-    "date": "2026-11-02",
-    "time": "11:00AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10,
+    "end": "2026-11-08",
     "sources": [
-      "Fairfax County Park Authority"
-    ]
-  },
-  {
-    "id": "7b8033efb90dd561",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-02",
-    "time": "8:00 AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
+      "ArtsFairfax"
     ]
   },
   {
@@ -230,7 +191,29 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-04"
+    "end": "2026-11-04",
+    "sources": [
+      "ArtsFairfax"
+    ]
+  },
+  {
+    "id": "ba61286f5556547d",
+    "title": "Holiday Singing Fun",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-04",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/holiday-singing-fun/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-12-02"
   },
   {
     "id": "6587d85b0e7a71ff",
@@ -248,7 +231,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "Fairfax County Park Authority",
-    "driveMin": 10
+    "driveMin": 10,
+    "sources": [
+      "Fairfax County Park Authority"
+    ]
   },
   {
     "id": "da3272fdbe16f1b9",
@@ -306,7 +292,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-05"
+    "end": "2026-11-05",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "0c273306d77cf1c6",
@@ -325,7 +314,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-05"
+    "end": "2026-11-05",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "cf4a048168720852",
@@ -451,7 +443,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-29"
+    "end": "2026-11-29",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "c4c8275df5b78d69",
@@ -507,7 +502,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-06"
+    "end": "2026-11-06",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "0383bdabc8a9800a",
@@ -1943,7 +1941,31 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Fauquier Community Theatre",
-    "driveMin": 50
+    "driveMin": 50,
+    "sources": [
+      "Fauquier Community Theatre"
+    ]
+  },
+  {
+    "id": "621602597da15fc0",
+    "title": "Shows & Tickets",
+    "venue": "Fauquier Community Theatre",
+    "city": "Warrenton",
+    "date": "2027-02-07",
+    "time": "See official listing",
+    "price": 16.0,
+    "priceType": "starting",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://fauquiertheatre.org/shows/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Fauquier Community Theatre",
+    "driveMin": 50,
+    "sources": [
+      "Fauquier Community Theatre"
+    ]
   },
   {
     "id": "26e89c1ecad916ae",
@@ -2445,7 +2467,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "The Birchmere",
-    "driveMin": 40
+    "driveMin": 40,
+    "sources": [
+      "The Birchmere"
+    ]
   },
   {
     "id": "91894ae5fe627e54",
