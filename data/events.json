@@ -110,28 +110,6 @@
     ]
   },
   {
-    "id": "d81e9fee1cbbe081",
-    "title": "Dante Gebel World Tour Despedida 2026",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-04",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/dante-gebel-world-tour-despedida-2026/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-04",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "ba61286f5556547d",
     "title": "Holiday Singing Fun",
     "venue": "Fairfax-area venue",
@@ -149,69 +127,6 @@
     "source": "ArtsFairfax",
     "driveMin": 10,
     "end": "2026-12-02"
-  },
-  {
-    "id": "6587d85b0e7a71ff",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
-    "city": "Fairfax County",
-    "date": "2026-11-04",
-    "time": "5:00PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10,
-    "sources": [
-      "Fairfax County Park Authority"
-    ]
-  },
-  {
-    "id": "da3272fdbe16f1b9",
-    "title": "Dante Gebel World Tour Despedida 2026 | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-11-04",
-    "time": "7PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/dante-gebel-world-tour-despedida-2026",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "be48c7d88ac9e3f7",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-04",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-04/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
   },
   {
     "id": "bf63f4d3035d264a",
@@ -343,6 +258,60 @@
     ]
   },
   {
+    "id": "0d1d3ac8c3e1ef60",
+    "title": "Cabin Fever Film Festival October 30 - December 18 Call for Entry: Western Loudoun Art & Studio Tour",
+    "venue": "Franklin Park Arts Center",
+    "city": "Purcellville",
+    "date": "2026-11-05",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Festival",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.franklinparkartscenter.org/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Franklin Park Arts Center",
+    "driveMin": 50
+  },
+  {
+    "id": "8dc8439d49ad5228",
+    "title": "Event Calendar - Franklin Park Arts Center, VA",
+    "venue": "Franklin Park Arts Center",
+    "city": "Purcellville",
+    "date": "2026-11-05",
+    "time": "6:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.franklinparkartscenter.org/calendar/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Franklin Park Arts Center",
+    "driveMin": 50
+  },
+  {
+    "id": "fa528cad966ce69b",
+    "title": "Events for November 2026",
+    "venue": "Franklin Park Arts Center",
+    "city": "Purcellville",
+    "date": "2026-11-05",
+    "time": "11:59 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.franklinparkartscenter.org/event/wlast/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Franklin Park Arts Center",
+    "driveMin": 50
+  },
+  {
     "id": "846a0cfa711242d9",
     "title": "nsen book by Steven Levenson music & lyrics by Benj Pasek & Justin Paul",
     "venue": "Klein Theatre",
@@ -363,6 +332,24 @@
     "sources": [
       "UMW Theatre"
     ]
+  },
+  {
+    "id": "733d0e386b8bc8e5",
+    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-05",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
   },
   {
     "id": "9739ac7131faa2d0",
@@ -403,7 +390,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-22"
+    "end": "2026-11-22",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "66c7cd685de68ed1",
@@ -467,6 +457,68 @@
     ]
   },
   {
+    "id": "19835b306cf895ed",
+    "title": "250 Years of America",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-07",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/250-years-of-america/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-07"
+  },
+  {
+    "id": "47033f4556b56c31",
+    "title": "We Rock Cancer Presents: Pat McGee Band w/ Freddy Jones Band and Jackopierce",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-07",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/we-rock-cancer-presents-pat-mcgee-band-w-freddy-jones-band-and-jackopierce/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-07",
+    "sources": [
+      "ArtsFairfax"
+    ]
+  },
+  {
+    "id": "63710b7dca979577",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-07",
+    "time": "6:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "c0781e520447e101",
     "title": "Pat McGee Band, Freddy Jones Band, & Jackopierce | Capital One Hall",
     "venue": "Capital One Hall",
@@ -482,7 +534,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "d5cc8dbe35ca33e5",
@@ -542,7 +597,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "e6515a612ca9b972",
@@ -634,7 +692,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-11-11",
-    "time": "See official listing",
+    "time": "6:00 PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
@@ -648,6 +706,25 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "bad3fb6fdfc93e66",
+    "title": "Art in the Afternoons – Fairfax Art League",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-12",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/art-in-the-afternoons-fairfax-art-league/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-12"
   },
   {
     "id": "41d859975a6a4cb2",
@@ -665,7 +742,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "Fairfax County Park Authority",
-    "driveMin": 10
+    "driveMin": 10,
+    "sources": [
+      "Fairfax County Park Authority"
+    ]
   },
   {
     "id": "f08c3bc30720aa46",
@@ -725,7 +805,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "aa842172adbf0d96",
@@ -1529,7 +1612,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "1st Stage",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "1st Stage"
+    ]
   },
   {
     "id": "4f0360671176f0ec",
@@ -1574,8 +1660,8 @@
     ]
   },
   {
-    "id": "d0c3a4c1063a529f",
-    "title": "Events for October 2026",
+    "id": "3917530c2a250f51",
+    "title": "Events for November 2026",
     "venue": "Franklin Park Arts Center",
     "city": "Purcellville",
     "date": "2026-12-10",
@@ -2053,7 +2139,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "b082ff8b269680a7",
