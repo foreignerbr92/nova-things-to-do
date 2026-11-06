@@ -129,50 +129,6 @@
     "end": "2026-12-02"
   },
   {
-    "id": "bf63f4d3035d264a",
-    "title": "Nepenthe Gallery Talk: The One and Only Andy Warhol",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-05",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Arts & Market",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/nepenthe-gallery-talk-the-one-and-only-andy-warhol/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-05",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "0c273306d77cf1c6",
-    "title": "NextStop Theatre’s: The Elaborate Entrance of Chad Deity",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-05",
-    "time": "See official listing",
-    "price": 30.0,
-    "priceType": "fixed",
-    "cat": "Theatre",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/nextstop-theatres-the-elaborate-entrance-of-chad-deity/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-05",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "cf4a048168720852",
     "title": "earn More The Elaborate Entrance of Chad Deity",
     "venue": "NextStop Theatre",
@@ -195,123 +151,6 @@
     ]
   },
   {
-    "id": "9b594406afd7319d",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-11-05",
-    "time": "9:30 AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "506562348be0313a",
-    "title": "Golf Classic",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-11-05",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "a43500e9aa4911f2",
-    "title": "Lucy Burns Museum Historic Campus Walking Tour",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-11-05",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Cultural",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "0d1d3ac8c3e1ef60",
-    "title": "Cabin Fever Film Festival October 30 - December 18 Call for Entry: Western Loudoun Art & Studio Tour",
-    "venue": "Franklin Park Arts Center",
-    "city": "Purcellville",
-    "date": "2026-11-05",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Festival",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.franklinparkartscenter.org/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Franklin Park Arts Center",
-    "driveMin": 50
-  },
-  {
-    "id": "8dc8439d49ad5228",
-    "title": "Event Calendar - Franklin Park Arts Center, VA",
-    "venue": "Franklin Park Arts Center",
-    "city": "Purcellville",
-    "date": "2026-11-05",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.franklinparkartscenter.org/calendar/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Franklin Park Arts Center",
-    "driveMin": 50
-  },
-  {
-    "id": "fa528cad966ce69b",
-    "title": "Events for November 2026",
-    "venue": "Franklin Park Arts Center",
-    "city": "Purcellville",
-    "date": "2026-11-05",
-    "time": "11:59 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.franklinparkartscenter.org/event/wlast/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Franklin Park Arts Center",
-    "driveMin": 50
-  },
-  {
     "id": "846a0cfa711242d9",
     "title": "nsen book by Steven Levenson music & lyrics by Benj Pasek & Justin Paul",
     "venue": "Klein Theatre",
@@ -332,24 +171,6 @@
     "sources": [
       "UMW Theatre"
     ]
-  },
-  {
-    "id": "733d0e386b8bc8e5",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-05",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
   },
   {
     "id": "9739ac7131faa2d0",
@@ -469,6 +290,47 @@
     "deal": false,
     "verified": true,
     "url": "https://artsfairfax.org/event/250-years-of-america/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-07",
+    "sources": [
+      "ArtsFairfax"
+    ]
+  },
+  {
+    "id": "3b3c9627676c7f53",
+    "title": "Children’s ArtSmart Painting Classes",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-07",
+    "time": "See official listing",
+    "price": 10.0,
+    "priceType": "fixed",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/childrens-artsmart-painting-classes/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-07"
+  },
+  {
+    "id": "0b5a6f15fb2d448c",
+    "title": "Class: Create a Felted Fall Gnome",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-07",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/class-create-a-felted-fall-gnome/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
@@ -724,7 +586,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-12"
+    "end": "2026-11-12",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "41d859975a6a4cb2",
@@ -809,6 +674,24 @@
     "sources": [
       "Capital One Hall"
     ]
+  },
+  {
+    "id": "66bcd9b15b33d9fe",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-11-13",
+    "time": "12:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "aa842172adbf0d96",
@@ -1055,6 +938,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "a53c13edddbcb1c9",
+    "title": "Gardening Symposium - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-14",
+    "time": "8:00 AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/event/gardening-symposium/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
   },
   {
     "id": "3ca8338558ac4626",
