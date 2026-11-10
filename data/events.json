@@ -198,46 +198,6 @@
     ]
   },
   {
-    "id": "8abc0bd3098b9421",
-    "title": "From Addis to Tel Aviv: An Evening of Ethiopian Flavors, Stories & Sigd",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-09",
-    "time": "See official listing",
-    "price": 30.0,
-    "priceType": "starting",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/from-addis-to-tel-aviv-an-evening-of-ethiopian-flavors-stories-sigd/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-09",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "48c2988146e7735d",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-09",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
-  },
-  {
     "id": "992dc783209b3385",
     "title": "An Evening With John Cusack and A Special Screening Of “Say Anything”",
     "venue": "Fairfax-area venue",
@@ -276,7 +236,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-10"
+    "end": "2026-11-10",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "f0cb5e9a10212fc6",
@@ -295,7 +258,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-12-01"
+    "end": "2026-12-01",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "7088df4d541f309e",
@@ -340,6 +306,24 @@
     ]
   },
   {
+    "id": "09cc765b2768daf8",
+    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-10",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/events/today/?hide_subsequent_recurrences=1",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
+  },
+  {
     "id": "605ecdbf460acc78",
     "title": "Events Calendar — Workhouse Arts Center",
     "venue": "Workhouse Arts Center",
@@ -355,7 +339,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "bba7570607de6384",
@@ -373,7 +360,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "4cb9aaee7becde6d",
@@ -456,7 +446,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-12"
+    "end": "2026-11-12",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "633f83b577a85e2f",
@@ -475,7 +468,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-12"
+    "end": "2026-11-12",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "41d859975a6a4cb2",
@@ -497,6 +493,25 @@
     "sources": [
       "Fairfax County Park Authority"
     ]
+  },
+  {
+    "id": "2f9154e2282d45c3",
+    "title": "Nepenthe Gallery: ArtSpire",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-12",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Arts & Market",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/nepenthe-gallery-artspire/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-12"
   },
   {
     "id": "f08c3bc30720aa46",
@@ -539,6 +554,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "3fef6e90a6027436",
+    "title": "Blade Runner Live | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-13",
+    "time": "6:30 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/blade-runner-live",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "6575ac7bcd522a4d",
@@ -953,6 +986,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "f06294218b74cc25",
+    "title": "Rishab Rikhiram Sharma | Sitar For Mental Health | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-18",
+    "time": "6:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/rishab-rikhiram-sharma-sitar-for-mental-health",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "1c64872a90c233dc",
