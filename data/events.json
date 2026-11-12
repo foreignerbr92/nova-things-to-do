@@ -198,90 +198,6 @@
     ]
   },
   {
-    "id": "605ecdbf460acc78",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-11-11",
-    "time": "12:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "bba7570607de6384",
-    "title": "Veteran's Day Mini Golf Special",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-11-11",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "4cb9aaee7becde6d",
-    "title": "Winter Walk of Lights",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-11-11",
-    "time": "10:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/events/winter-walk-of-lights",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35,
-    "sources": [
-      "NOVA Parks"
-    ]
-  },
-  {
-    "id": "2f05249b6642d9ea",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-11",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-11/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "bad3fb6fdfc93e66",
     "title": "Art in the Afternoons – Fairfax Art League",
     "venue": "Fairfax-area venue",
@@ -412,6 +328,27 @@
     ]
   },
   {
+    "id": "bdcf8edfff9b168d",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-12",
+    "time": "7PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "58b410b625c7152f",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -433,6 +370,44 @@
     ]
   },
   {
+    "id": "b4fdd3af6de99e97",
+    "title": "Dabke Dance Social on",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-13",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/dabke-dance-social-on-november-13/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-13"
+  },
+  {
+    "id": "0ef390c92abdf4de",
+    "title": "NVCO Fall Concert – November",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-13",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/nvco-fall-concert-november/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-13"
+  },
+  {
     "id": "4f94db97dafc8c45",
     "title": "The Soldier’s Tale",
     "venue": "Fairfax-area venue",
@@ -449,7 +424,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-13"
+    "end": "2026-11-13",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "3fef6e90a6027436",
@@ -907,7 +885,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-11-18",
-    "time": "See official listing",
+    "time": "6:00 PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
@@ -1124,7 +1102,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "1dba381744a86941",
@@ -1643,7 +1624,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "2083167e24647d93",
@@ -2757,7 +2741,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "b66898bc6a546ed4",
