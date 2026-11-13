@@ -198,176 +198,23 @@
     ]
   },
   {
-    "id": "bad3fb6fdfc93e66",
-    "title": "Art in the Afternoons – Fairfax Art League",
+    "id": "2d108b4d4dcd7508",
+    "title": "ARTScreen FREE Film Series",
     "venue": "Fairfax-area venue",
     "city": "Fairfax County",
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "time": "See official listing",
-    "price": null,
-    "priceType": null,
+    "price": 0,
+    "priceType": "fixed",
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://artsfairfax.org/event/art-in-the-afternoons-fairfax-art-league/",
+    "url": "https://artsfairfax.org/event/artscreen-free-film-series-3/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-12",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "7bc4076861e6f12f",
-    "title": "Artist and the Law: Protecting Your Work in the Age of AI",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-12",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/artist-and-the-law-protecting-your-work-in-the-age-of-ai/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-12",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "633f83b577a85e2f",
-    "title": "Australia’s Thunder From Down Under",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-12",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/australias-thunder-from-down-under/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-12",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "41d859975a6a4cb2",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
-    "city": "Fairfax County",
-    "date": "2026-11-12",
-    "time": "6:00PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10,
-    "sources": [
-      "Fairfax County Park Authority"
-    ]
-  },
-  {
-    "id": "2f9154e2282d45c3",
-    "title": "Nepenthe Gallery: ArtSpire",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-12",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Arts & Market",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/nepenthe-gallery-artspire/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-12",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "f08c3bc30720aa46",
-    "title": "Australia",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-11-12",
-    "time": "7PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/australias-thunder-from-down-under",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "bdcf8edfff9b168d",
-    "title": "Events | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-11-12",
-    "time": "7PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "58b410b625c7152f",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-12",
-    "time": "5:30 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-12/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "end": "2026-11-13"
   },
   {
     "id": "b4fdd3af6de99e97",
@@ -386,7 +233,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-13"
+    "end": "2026-11-13",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "0ef390c92abdf4de",
@@ -405,7 +255,29 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-13"
+    "end": "2026-11-13",
+    "sources": [
+      "ArtsFairfax"
+    ]
+  },
+  {
+    "id": "7cd367f4d78494e7",
+    "title": "STARS Performing Arts Presents: Sweeney Todd School Edition",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-13",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/stars-performing-arts-presents-sweeney-todd-school-edition/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-16"
   },
   {
     "id": "4f94db97dafc8c45",
@@ -445,7 +317,31 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
+    "id": "02a38dfe56c3c941",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-13",
+    "time": "6:30 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "6575ac7bcd522a4d",
@@ -757,6 +653,24 @@
     ]
   },
   {
+    "id": "4ce5dc2609ae783a",
+    "title": "Dia De Los Muertos: Vibrations From The Afterlife | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-15",
+    "time": "6:00PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/dia-de-los-muertos-vibrations-from-the-afterlife",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
+  },
+  {
     "id": "3ca8338558ac4626",
     "title": "Lucy Burns Museum EqualiTEA - A Turning Point",
     "venue": "Workhouse Arts Center",
@@ -877,7 +791,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "1c64872a90c233dc",
@@ -943,6 +860,24 @@
     ]
   },
   {
+    "id": "c014f6623fb7a9fd",
+    "title": "Full Moon Fever: A Tom Petty Tribute | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-20",
+    "time": "7PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/full-moon-fever-a-tom-petty-tribute",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
+  },
+  {
     "id": "40c56ecaf600f6c5",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -979,7 +914,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "bf03ca869e4687b5",
@@ -1320,7 +1258,7 @@
     "venue": "Winchester-area venue",
     "city": "Winchester",
     "date": "2026-12-03",
-    "time": "See official listing",
+    "time": "7:30 PM",
     "price": null,
     "priceType": null,
     "cat": "Experience",
@@ -2513,6 +2451,24 @@
     "sources": [
       "The Birchmere"
     ]
+  },
+  {
+    "id": "604dbd454c76eed2",
+    "title": "Events from November 13 - 05/29/2027",
+    "venue": "The Birchmere",
+    "city": "Alexandria",
+    "date": "2027-04-06",
+    "time": "7:30 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.birchmere.com/events/list/?hide_subsequent_recurrences=1&shortcode=f0b1cb7d",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "The Birchmere",
+    "driveMin": 40
   },
   {
     "id": "59f9515664f8c34a",
