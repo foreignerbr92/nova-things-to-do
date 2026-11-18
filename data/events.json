@@ -176,27 +176,6 @@
     ]
   },
   {
-    "id": "19cc5d1de40afda3",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-17",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-17/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
-  },
-  {
     "id": "a2b60dc59a4935a7",
     "title": "Language Selection",
     "venue": "Fairfax County parks",
@@ -259,6 +238,27 @@
     "end": "2026-11-18",
     "sources": [
       "ArtsFairfax"
+    ]
+  },
+  {
+    "id": "5b81e9cd94afa2ab",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-18",
+    "time": "6:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
     ]
   },
   {
@@ -385,7 +385,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "2cb991e091d74e5c",
@@ -486,7 +489,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Capital One Hall",
-    "driveMin": 25
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
   },
   {
     "id": "40c56ecaf600f6c5",
@@ -592,6 +598,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "80a05f7e24059600",
+    "title": "Nurse Blake: But Did You Die? Comedy Tour | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-24",
+    "time": "6:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Comedy",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/nurse-blake-but-did-you-die-comedy-tour",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "bdefe9d7729cf799",
@@ -1300,6 +1324,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "81315fc4105f1117",
+    "title": "Language Selection",
+    "venue": "Fairfax County parks",
+    "city": "Fairfax County",
+    "date": "2027-01-06",
+    "time": "9:30AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/events/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 10
   },
   {
     "id": "1dd3e59af9beddda",
