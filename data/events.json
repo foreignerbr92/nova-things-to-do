@@ -176,132 +176,23 @@
     ]
   },
   {
-    "id": "a2b60dc59a4935a7",
-    "title": "Language Selection",
-    "venue": "Fairfax County parks",
-    "city": "Fairfax County",
-    "date": "2026-11-18",
-    "time": "9:30AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.fairfaxcounty.gov/events/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "Fairfax County Park Authority",
-    "driveMin": 10,
-    "sources": [
-      "Fairfax County Park Authority"
-    ]
-  },
-  {
-    "id": "07b92926d1fd86f9",
-    "title": "Sillygander: Improv Watch & Learn (Nov)",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-18",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Comedy",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/sillygander-improv-watch-learn-nov/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-18",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "61ed25b6763cae77",
-    "title": "Virginia Opera – FREE “Arias & Duets” in Fairfax City!",
+    "id": "ccc9dd6db0f245b3",
+    "title": "McLean Project for the Arts Unveils Two New Exhibitions at MPA at McLean Community Center",
     "venue": "Fairfax-area venue",
     "city": "Fairfax County",
     "date": "2026-11-18",
     "time": "See official listing",
     "price": null,
     "priceType": null,
-    "cat": "Theatre",
+    "cat": "Arts & Market",
     "deal": false,
     "verified": true,
-    "url": "https://artsfairfax.org/event/virginia-opera-arias-duets-in-fairfax-city/",
+    "url": "https://artsfairfax.org/event/mclean-project-for-the-arts-unveils-two-new-exhibitions-at-mpa-at-mclean-community-center/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-18",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "5b81e9cd94afa2ab",
-    "title": "Events | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-11-18",
-    "time": "6:30PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events-tickets",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "f06294218b74cc25",
-    "title": "Rishab Rikhiram Sharma | Sitar For Mental Health | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-11-18",
-    "time": "6:30PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/rishab-rikhiram-sharma-sitar-for-mental-health",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
-    "sources": [
-      "Capital One Hall"
-    ]
-  },
-  {
-    "id": "1c64872a90c233dc",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-18",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-18/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "end": "2027-02-20"
   },
   {
     "id": "301feb6bba958add",
@@ -433,6 +324,25 @@
     ]
   },
   {
+    "id": "bec3d74bc799d4df",
+    "title": "Anime USA",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-20",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/anime-usa/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-22"
+  },
+  {
     "id": "0d65da7dd1a2e2c3",
     "title": "Bokor/Snedecor/Hill in concert!",
     "venue": "Fairfax-area venue",
@@ -449,7 +359,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-20"
+    "end": "2026-11-20",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "904e73ff7e76bc64",
@@ -472,6 +385,25 @@
     "sources": [
       "ArtsFairfax"
     ]
+  },
+  {
+    "id": "ca1329844b90f5a4",
+    "title": "Triangle Art Studios",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-20",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/triangle-art-studios/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-12-27"
   },
   {
     "id": "c014f6623fb7a9fd",
@@ -616,6 +548,24 @@
     "park": false,
     "source": "Capital One Hall",
     "driveMin": 25
+  },
+  {
+    "id": "d7fd5c7c91c41303",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-11-24",
+    "time": "12PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
   },
   {
     "id": "bdefe9d7729cf799",
