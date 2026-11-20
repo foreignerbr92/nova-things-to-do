@@ -192,135 +192,9 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2027-02-20"
-  },
-  {
-    "id": "301feb6bba958add",
-    "title": "Art After Hours",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-19",
-    "time": "See official listing",
-    "price": 10.0,
-    "priceType": "fixed",
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/art-after-hours/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-19",
+    "end": "2027-02-20",
     "sources": [
       "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "300c8d26493dae69",
-    "title": "Nepenthe Gallery Presents Father-Daughter Artists Rashidfarokhy",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-19",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Arts & Market",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/nepenthe-gallery-presents-father-daughter-artists-rashidfarokhy/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-19",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "824068541bc998a4",
-    "title": "South Lakes Theatre Arts Presents Come From Away",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-19",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Theatre",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/south-lakes-theatre-arts-presents-come-from-away/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-19",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "e9db9f93c9557b1b",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-11-19",
-    "time": "12PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "2cb991e091d74e5c",
-    "title": "Lucy Burns Museum Historic Campus Walking Tour",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-11-19",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Cultural",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "1de967df42039389",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-19",
-    "time": "5:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-19/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
     ]
   },
   {
@@ -340,7 +214,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-22"
+    "end": "2026-11-22",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "0d65da7dd1a2e2c3",
@@ -403,7 +280,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-12-27"
+    "end": "2026-12-27",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "c014f6623fb7a9fd",
@@ -446,6 +326,63 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "ff3ba6caa72355d3",
+    "title": "Class–Make Two Beaded Ornaments",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-21",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/class-make-two-beaded-ornaments/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-21"
+  },
+  {
+    "id": "50f57d21ae734ac6",
+    "title": "Danger Bird – Bringing You The Music of Neil Young",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-21",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/danger-bird-bringing-you-the-music-of-neil-young/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-21"
+  },
+  {
+    "id": "71993cfa561e4d83",
+    "title": "Sound Impact: Use Your Voice",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-21",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/sound-impact-use-your-voice/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-21"
   },
   {
     "id": "732bb9d1b95a315c",
@@ -565,7 +502,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Workhouse Arts Center",
-    "driveMin": 35
+    "driveMin": 35,
+    "sources": [
+      "Workhouse Arts Center"
+    ]
   },
   {
     "id": "bdefe9d7729cf799",
@@ -608,6 +548,24 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "7f72c8737c443771",
+    "title": "Language Selection",
+    "venue": "Fairfax County parks",
+    "city": "Fairfax County",
+    "date": "2026-11-25",
+    "time": "4:00PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/events/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 10
   },
   {
     "id": "951da3ffde210a33",
