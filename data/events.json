@@ -242,91 +242,6 @@
     ]
   },
   {
-    "id": "5531e62c83d5773d",
-    "title": "Carly Harvey Sings the Blues: The Native American Influence",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-21",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Cultural",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/carly-harvey-sings-the-blues-the-native-american-influence/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-21"
-  },
-  {
-    "id": "ff3ba6caa72355d3",
-    "title": "Class–Make Two Beaded Ornaments",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-21",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/class-make-two-beaded-ornaments/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-21",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "50f57d21ae734ac6",
-    "title": "Danger Bird – Bringing You The Music of Neil Young",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-21",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/danger-bird-bringing-you-the-music-of-neil-young/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-21",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "71993cfa561e4d83",
-    "title": "Sound Impact: Use Your Voice",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-21",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/sound-impact-use-your-voice/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-21",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "8a09346cab974c63",
     "title": "Virginia Opera: Pagliacci",
     "venue": "Fairfax-area venue",
@@ -343,85 +258,48 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-22"
-  },
-  {
-    "id": "732bb9d1b95a315c",
-    "title": "Danger Bird - Bringing You The Music of Neil Young | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-11-21",
-    "time": "7:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/danger-bird",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25,
+    "end": "2026-11-22",
     "sources": [
-      "Capital One Hall"
+      "ArtsFairfax"
     ]
   },
   {
-    "id": "41b5844c679af9bb",
-    "title": "Events",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-11-21",
-    "time": "10AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/events/event-calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35
-  },
-  {
-    "id": "070b6c701641b3b4",
-    "title": "Things To Do",
-    "venue": "NOVA Parks",
-    "city": "Northern Virginia",
-    "date": "2026-11-21",
-    "time": "10AM",
-    "price": null,
-    "priceType": null,
-    "cat": "Park Event",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.novaparks.com/things-to-do",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": true,
-    "source": "NOVA Parks",
-    "driveMin": 35
-  },
-  {
-    "id": "bf03ca869e4687b5",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-21",
-    "time": "7:00 PM",
+    "id": "d1ed1b0ee234211a",
+    "title": "Dance Academy of Virginia: The Nutcracker",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-22",
+    "time": "See official listing",
     "price": null,
     "priceType": null,
     "cat": "Experience",
     "deal": false,
     "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-21/?hide_subsequent_recurrences=1",
+    "url": "https://artsfairfax.org/event/dance-academy-of-virginia-the-nutcracker-2/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-22"
+  },
+  {
+    "id": "099c60e0914a23cd",
+    "title": "WMYO & WMCO November Concert",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-22",
+    "time": "See official listing",
+    "price": 0,
+    "priceType": "fixed",
+    "cat": "Music",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/wmyo-wmco-november-concert/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-22"
   },
   {
     "id": "74200c3c442427d9",
@@ -464,6 +342,25 @@
     "sources": [
       "Winchester-Frederick County CVB"
     ]
+  },
+  {
+    "id": "ac27cd8102919e89",
+    "title": "Nurse Blake: But Did You Die? Comedy Tour",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-24",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Comedy",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/nurse-blake-but-did-you-die-comedy-tour/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-24"
   },
   {
     "id": "80a05f7e24059600",
@@ -649,6 +546,28 @@
     "driveMin": 75,
     "sources": [
       "Winchester-Frederick County CVB"
+    ]
+  },
+  {
+    "id": "83c0c9792c2c469f",
+    "title": "Be Like Blippi Tour!",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-27",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/be-like-blippi-tour/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-27",
+    "sources": [
+      "ArtsFairfax"
     ]
   },
   {
