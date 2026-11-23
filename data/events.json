@@ -66,28 +66,6 @@
     ]
   },
   {
-    "id": "846a0cfa711242d9",
-    "title": "nsen book by Steven Levenson music & lyrics by Benj Pasek & Justin Paul",
-    "venue": "Klein Theatre",
-    "city": "Fredericksburg",
-    "date": "2026-11-05",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Music",
-    "deal": true,
-    "verified": true,
-    "url": "https://cas.umw.edu/theatre/klein-theatre/season/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "UMW Theatre",
-    "driveMin": 65,
-    "end": "2026-11-22",
-    "sources": [
-      "UMW Theatre"
-    ]
-  },
-  {
     "id": "9739ac7131faa2d0",
     "title": "Gallery B Presents: Intersections | Realism & Abstraction",
     "venue": "Fairfax-area venue",
@@ -105,28 +83,6 @@
     "source": "ArtsFairfax",
     "driveMin": 10,
     "end": "2026-11-29",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "c4c8275df5b78d69",
-    "title": "The Emperor’s New Clothes",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-06",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/the-emperors-new-clothes/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-22",
     "sources": [
       "ArtsFairfax"
     ]
@@ -198,28 +154,6 @@
     ]
   },
   {
-    "id": "bec3d74bc799d4df",
-    "title": "Anime USA",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-20",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/anime-usa/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-22",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
     "id": "ca1329844b90f5a4",
     "title": "Triangle Art Studios",
     "venue": "Fairfax-area venue",
@@ -239,87 +173,6 @@
     "end": "2026-12-27",
     "sources": [
       "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "8a09346cab974c63",
-    "title": "Virginia Opera: Pagliacci",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-21",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Theatre",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/virginia-opera-pagliacci/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-22",
-    "sources": [
-      "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "d1ed1b0ee234211a",
-    "title": "Dance Academy of Virginia: The Nutcracker",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-22",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/dance-academy-of-virginia-the-nutcracker-2/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-22"
-  },
-  {
-    "id": "099c60e0914a23cd",
-    "title": "WMYO & WMCO November Concert",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-22",
-    "time": "See official listing",
-    "price": 0,
-    "priceType": "fixed",
-    "cat": "Music",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/wmyo-wmco-november-concert/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-22"
-  },
-  {
-    "id": "74200c3c442427d9",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-22",
-    "time": "3:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-22/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
     ]
   },
   {
@@ -360,7 +213,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-24"
+    "end": "2026-11-24",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "80a05f7e24059600",
@@ -486,6 +342,24 @@
     ]
   },
   {
+    "id": "14d16ba5f65db123",
+    "title": "EXHIBIT: Gingerbread Dreams",
+    "venue": "Franklin Park Arts Center",
+    "city": "Purcellville",
+    "date": "2026-11-25",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Arts & Market",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.franklinparkartscenter.org/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Franklin Park Arts Center",
+    "driveMin": 50
+  },
+  {
     "id": "1dba381744a86941",
     "title": "Event Calendar - Franklin Park Arts Center, VA",
     "venue": "Franklin Park Arts Center",
@@ -505,6 +379,24 @@
     "sources": [
       "Franklin Park Arts Center"
     ]
+  },
+  {
+    "id": "bbd1fefea960bf3a",
+    "title": "Events for November 2026",
+    "venue": "Franklin Park Arts Center",
+    "city": "Purcellville",
+    "date": "2026-11-25",
+    "time": "9:00AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.franklinparkartscenter.org/event/gingerbread-dream-exhibit/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Franklin Park Arts Center",
+    "driveMin": 50
   },
   {
     "id": "18667727fed7e019",
@@ -592,6 +484,24 @@
     ]
   },
   {
+    "id": "5aed4e6a035b8ed8",
+    "title": "Whiskey Wednesday Guided Tasting with Dan at Vault & Cellar - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-27",
+    "time": "6:00 PM",
+    "price": 52.0,
+    "priceType": "fixed",
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/event/whiskey-wednesday-guided-tasting-with-dan-at-vault-cellar/2026-11-25/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
+  },
+  {
     "id": "34df49299e40648e",
     "title": "Winchester Wings & Wheels - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -608,6 +518,44 @@
     "park": false,
     "source": "Winchester-Frederick County CVB",
     "driveMin": 75
+  },
+  {
+    "id": "ba9406f007d85943",
+    "title": "Canadian Brass",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-28",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/canadian-brass/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-28"
+  },
+  {
+    "id": "e8c0c25a8c8b2ed8",
+    "title": "Rocky Mountain High Experience: A John Denver Christmas",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-28",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/rocky-mountain-high-experience-a-john-denver-christmas/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-28"
   },
   {
     "id": "2f9f3087cbd2dd9f",
@@ -628,6 +576,28 @@
     "driveMin": 75,
     "sources": [
       "Winchester-Frederick County CVB"
+    ]
+  },
+  {
+    "id": "285cc7b654c1dafd",
+    "title": "NUTCRACKER! Magical Christmas Ballet",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-29",
+    "time": "See official listing",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://artsfairfax.org/event/nutcracker-magical-christmas-ballet/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2026-11-29",
+    "sources": [
+      "ArtsFairfax"
     ]
   },
   {
@@ -962,6 +932,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "0b2f15ce515354d5",
+    "title": "Language Selection",
+    "venue": "Fairfax County parks",
+    "city": "Fairfax County",
+    "date": "2026-12-16",
+    "time": "9:30AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Park Event",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.fairfaxcounty.gov/events/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": true,
+    "source": "Fairfax County Park Authority",
+    "driveMin": 10
   },
   {
     "id": "9e5d79a960212fdb",
