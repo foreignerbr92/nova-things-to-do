@@ -176,25 +176,23 @@
     ]
   },
   {
-    "id": "bef93829adaa5f00",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-23",
+    "id": "243f319f3bc32d11",
+    "title": "McLean Project for the Arts Opens Three New Exhibitions at MPA Berlage Arts & Education Center",
+    "venue": "Fairfax-area venue",
+    "city": "Fairfax County",
+    "date": "2026-11-24",
     "time": "See official listing",
     "price": null,
     "priceType": null,
-    "cat": "Experience",
+    "cat": "Arts & Market",
     "deal": false,
     "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-23/?hide_subsequent_recurrences=1",
+    "url": "https://artsfairfax.org/event/mclean-project-for-the-arts-opens-three-new-exhibitions-at-mpa-berlage-arts-education-center/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
-    ]
+    "source": "ArtsFairfax",
+    "driveMin": 10,
+    "end": "2027-02-20"
   },
   {
     "id": "ac27cd8102919e89",
@@ -357,7 +355,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Franklin Park Arts Center",
-    "driveMin": 50
+    "driveMin": 50,
+    "sources": [
+      "Franklin Park Arts Center"
+    ]
   },
   {
     "id": "1dba381744a86941",
@@ -396,7 +397,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Franklin Park Arts Center",
-    "driveMin": 50
+    "driveMin": 50,
+    "sources": [
+      "Franklin Park Arts Center"
+    ]
   },
   {
     "id": "18667727fed7e019",
@@ -536,7 +540,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-28"
+    "end": "2026-11-28",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "e8c0c25a8c8b2ed8",
@@ -555,7 +562,10 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2026-11-28"
+    "end": "2026-11-28",
+    "sources": [
+      "ArtsFairfax"
+    ]
   },
   {
     "id": "2f9f3087cbd2dd9f",
@@ -949,7 +959,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": true,
     "source": "Fairfax County Park Authority",
-    "driveMin": 10
+    "driveMin": 10,
+    "sources": [
+      "Fairfax County Park Authority"
+    ]
   },
   {
     "id": "9e5d79a960212fdb",
