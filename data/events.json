@@ -192,109 +192,9 @@
     "park": false,
     "source": "ArtsFairfax",
     "driveMin": 10,
-    "end": "2027-02-20"
-  },
-  {
-    "id": "ac27cd8102919e89",
-    "title": "Nurse Blake: But Did You Die? Comedy Tour",
-    "venue": "Fairfax-area venue",
-    "city": "Fairfax County",
-    "date": "2026-11-24",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Comedy",
-    "deal": false,
-    "verified": true,
-    "url": "https://artsfairfax.org/event/nurse-blake-but-did-you-die-comedy-tour/",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "ArtsFairfax",
-    "driveMin": 10,
-    "end": "2026-11-24",
+    "end": "2027-02-20",
     "sources": [
       "ArtsFairfax"
-    ]
-  },
-  {
-    "id": "80a05f7e24059600",
-    "title": "Nurse Blake: But Did You Die? Comedy Tour | Capital One Hall",
-    "venue": "Capital One Hall",
-    "city": "Tysons",
-    "date": "2026-11-24",
-    "time": "6:00 PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Comedy",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.capitalonehall.com/events/detail/nurse-blake-but-did-you-die-comedy-tour",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Capital One Hall",
-    "driveMin": 25
-  },
-  {
-    "id": "d7fd5c7c91c41303",
-    "title": "Events Calendar — Workhouse Arts Center",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-11-24",
-    "time": "12PM",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "bdefe9d7729cf799",
-    "title": "Winter Class Registration Opens - Ceramics",
-    "venue": "Workhouse Arts Center",
-    "city": "Lorton",
-    "date": "2026-11-24",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://www.workhousearts.org/calendar",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Workhouse Arts Center",
-    "driveMin": 35,
-    "sources": [
-      "Workhouse Arts Center"
-    ]
-  },
-  {
-    "id": "e8eb7ea074b9a621",
-    "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
-    "venue": "Winchester-area venue",
-    "city": "Winchester",
-    "date": "2026-11-24",
-    "time": "See official listing",
-    "price": null,
-    "priceType": null,
-    "cat": "Experience",
-    "deal": false,
-    "verified": true,
-    "url": "https://visitwinchesterva.com/events/2026-11-24/?hide_subsequent_recurrences=1",
-    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
-    "park": false,
-    "source": "Winchester-Frederick County CVB",
-    "driveMin": 75,
-    "sources": [
-      "Winchester-Frederick County CVB"
     ]
   },
   {
@@ -467,6 +367,27 @@
     ]
   },
   {
+    "id": "f9794d202b8fb53a",
+    "title": "2 for 1 Broadway & Ballet Tickets | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-27",
+    "time": "10AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Theatre",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets/2-for-1-broadway-ballet-tickets?utm_campaign=black-friday&utm_source=Venue%20Website%20Ad&utm_medium=owned-website",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "71ef3581f80734d5",
     "title": "Events Archive - Page 2 of 43 - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -503,7 +424,10 @@
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
-    "driveMin": 75
+    "driveMin": 75,
+    "sources": [
+      "Winchester-Frederick County CVB"
+    ]
   },
   {
     "id": "34df49299e40648e",
@@ -518,6 +442,60 @@
     "deal": false,
     "verified": true,
     "url": "https://visitwinchesterva.com/event/winchester-wings-wheels/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
+  },
+  {
+    "id": "3dda27597007c72d",
+    "title": "Winchester Winter Village - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-27",
+    "time": "6:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/event/winchester-winter-village/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
+  },
+  {
+    "id": "a5cdd3cd3bf18e40",
+    "title": "Wine Tasting Experience - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-27",
+    "time": "4:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/event/wine-tasting-experience/",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Winchester-Frederick County CVB",
+    "driveMin": 75
+  },
+  {
+    "id": "33978d1cbc08709e",
+    "title": "You Should Be Dancing! - Winchester-Frederick County Convention & Visitors Bureau",
+    "venue": "Winchester-area venue",
+    "city": "Winchester",
+    "date": "2026-11-27",
+    "time": "7:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://visitwinchesterva.com/event/you-should-be-dancing/",
     "note": "Automatically discovered from an official/public event listing; confirm details before going.",
     "park": false,
     "source": "Winchester-Frederick County CVB",
@@ -566,6 +544,66 @@
     "sources": [
       "ArtsFairfax"
     ]
+  },
+  {
+    "id": "57026b3ac37210f6",
+    "title": "Events | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-28",
+    "time": "2:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
+    "id": "31f2ae6733ee41b2",
+    "title": "Holiday Deals: Save 25% Off Select Shows | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-28",
+    "time": "10AM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events-tickets/bfcm2026-coh?utm_campaign=black-friday&utm_source=Venue%20Website%20Ad&utm_medium=owned-website",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
+    "id": "194c287f302e3a52",
+    "title": "Rocky Mountain High Experience: A John Denver Christmas | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-28",
+    "time": "6:30PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/john-denver-christmas",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "2f9f3087cbd2dd9f",
@@ -632,6 +670,27 @@
     ]
   },
   {
+    "id": "818b9c143ceba3aa",
+    "title": "Derek Hough Dance For The Holidays | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-11-30",
+    "time": "7PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/derek-hough-dance-for-the-holidays",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
+    ]
+  },
+  {
     "id": "484e05c6f51bbae9",
     "title": "Events Archive - Winchester-Frederick County Convention & Visitors Bureau",
     "venue": "Winchester-area venue",
@@ -692,6 +751,27 @@
     "driveMin": 75,
     "sources": [
       "Winchester-Frederick County CVB"
+    ]
+  },
+  {
+    "id": "388757ef97d36435",
+    "title": "The Jinkx & DeLa Holiday Show | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-12-03",
+    "time": "6PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/the-jinkx-dela-holiday-show-1",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25,
+    "sources": [
+      "Capital One Hall"
     ]
   },
   {
@@ -839,6 +919,24 @@
     ]
   },
   {
+    "id": "98edc88c4f0caf9f",
+    "title": "Events Calendar — Workhouse Arts Center",
+    "venue": "Workhouse Arts Center",
+    "city": "Lorton",
+    "date": "2026-12-11",
+    "time": "12:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.workhousearts.org/calendar",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Workhouse Arts Center",
+    "driveMin": 35
+  },
+  {
     "id": "0f4f04e276af745d",
     "title": "Lucy Burns Museum Learning at Lunch",
     "venue": "Workhouse Arts Center",
@@ -942,6 +1040,24 @@
     "sources": [
       "Workhouse Arts Center"
     ]
+  },
+  {
+    "id": "ae4272dd294c4602",
+    "title": "Sue Foley / GA-20: Together for the Holidays | Capital One Hall",
+    "venue": "Capital One Hall",
+    "city": "Tysons",
+    "date": "2026-12-15",
+    "time": "7:00 PM",
+    "price": null,
+    "priceType": null,
+    "cat": "Experience",
+    "deal": false,
+    "verified": true,
+    "url": "https://www.capitalonehall.com/events/detail/sue-foley-ga-20-together-for-the-holidays",
+    "note": "Automatically discovered from an official/public event listing; confirm details before going.",
+    "park": false,
+    "source": "Capital One Hall",
+    "driveMin": 25
   },
   {
     "id": "0b2f15ce515354d5",
